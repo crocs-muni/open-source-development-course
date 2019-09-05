@@ -17,9 +17,9 @@ Welcome to Open Source Development Course info repository
    - Project setup
    - OSS development introduction (forking, pull-requests, issues)
    - Documenting (Readme.md, Contributing.md, LICENSE)
-   - Testing, continuous integration
-   - World of maintainers
-   - Open source in general, community, interactions
+   - Testing, continuous integration fly-by
+   - World of project maintainers, best practices
+   - Open source in general, community, interactions, soft-skills
    - Open source in Brno
   
   
@@ -29,14 +29,15 @@ Welcome to Open Source Development Course info repository
    - GUIs, GitHub integration
   
   
- ### Week 4: Build process
+ ### Week 4: Project CI/CD, maintenance, lifecycle, build
    - CVS, brief introductory
    - Project management via WebUI, GitHub (project, fork, releases, milestones, wiki, licensing)
    - Documentation (markdown, JavaDoc, Doxygen)
    - Code style, standards, pep8, clang-format, enforcing styling pass on CI (madatory for pull-requests)
-   - Core building tools
+   - Core building tools, cmake, maven, gradle
+   - Dependency management, maven repositories, gradle, pip / setup.py, npm
+   - Publishing, packaging and repositories, Maven, Sonatype, Pypi, NPM. Security aspects, GitHub vulnerability reporting
    - Continuous integration (CI), Travis, basic configuration, build matrix, Travis cache, AppVeyor, Jenkins, GitLab
-   - Packaging and repositories, Maven, Sonatype, Pypi, NPM. Security aspects, GitHub vulnerability reporting
    - General security aspects, CVEs, security.txt, bounties, responsible disclosure
    
    
