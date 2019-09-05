@@ -2,6 +2,29 @@
 
 Welcome to Open Source Development Course info repository
 
+## Course requirements
+   - Choose OpenSource project you will contribute to. 
+   - RedHad OpenSource Contest projects are pre-approved, others are approved by course leaders in the first 3 weeks of the semester
+   - You should not be awarded for the same work twice, i.e., you cannot use OpenSource project you work on in your day job or a on a different course.
+   - The amount of work required on the project is roughly 50-60 hours. Must have the track record, i.e., commits, issues, documentation, discussions, ...
+   - Students are required to precisely track the time they work on the project (e.g., by Toggle app). It is also beneficial to develop such habbit for further contract work student could have later.
+  
+ During the course there are two compulsory homework tasks:
+
+### Basic development task
+   - Prove you have elementary knowledge with GIT and build systems
+   - Setup a GitHub repo
+   - Commit code with simple functionality
+   - Include tests, documentation
+   - Use build system of your choice (makefile, cmake, gradle, ...)
+   - CI setup (e.g., Travis)
+   - Setup style check as a part of the CI
+  
+### Advanced git
+   - For repository prepared by us
+   - Fix assigned issue (new feature, add tests, documentation, write proper pull request)
+   - Upstream changes meanwhile, practice rebase
+
 ## Course Overview
 
 
