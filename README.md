@@ -12,7 +12,7 @@ Welcome to Open Source Development Course info repository
 
 ### Week 2: Introduction to open-source world
    - Topic presentations, choose your topic 
-   - Communication, rules (IRC, GitHub, Slack, ...)
+   - Communication, rules, (IRC, GitHub, Slack, Telegram, ...)
    - Short introduction to licenses
    - Project setup
    - OSS development introduction (forking, pull-requests, issues)
