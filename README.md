@@ -8,6 +8,7 @@ Welcome to Open Source Development Course info repository
    - You should not be awarded for the same work twice, i.e., you cannot use OpenSource project you work on in your day job or a on a different course.
    - The amount of work required on the project is roughly 50-60 hours. Must have the track record, i.e., commits, issues, documentation, discussions, ...
    - Students are required to precisely track the time they work on the project (e.g., by Toggle app). It is also beneficial to develop such habbit for further contract work student could have later.
+   - Students are required to deliver 3 presentation (10 minutes talks) over the course of the semester describing the current progress.
   
  During the course there are two compulsory homework tasks:
 
@@ -25,8 +26,9 @@ Welcome to Open Source Development Course info repository
    - Fix assigned issue (new feature, add tests, documentation, write proper pull request)
    - Upstream changes meanwhile, practice rebase
 
-## Course Overview
 
+------------------------------------------------------------------------------------------
+## Course Overview
 
 ### Week 1: Course intro
    - General overview
