@@ -1,33 +1,28 @@
-# Open Source Development Course
+# PB173/oss: Open Source Development Course
 
-Welcome to Open Source Development Course info repository
+The main goal of the course is to help and encourage university students to join the development of real-world open-source software. The course consists of 4--5 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development. We closely cooperate with [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/).
 
 ## Course requirements
-   - Choose OpenSource project you will contribute to. 
-   - RedHad OpenSource Contest projects are pre-approved, others are approved by course leaders in the first 3 weeks of the semester
-   - You should not be awarded for the same work twice, i.e., you cannot use OpenSource project you work on in your day job or a on a different course.
-   - The amount of work required on the project is roughly 50-60 hours. Must have the track record, i.e., commits, issues, documentation, discussions, ...
-   - Students are required to precisely track the time they work on the project (e.g., by Toggle app). It is also beneficial to develop such habbit for further contract work student could have later.
-   - Students are required to deliver 3 presentation (10 minutes talks) over the course of the semester describing the current progress.
-  
- During the course there are two compulsory homework tasks:
 
-### Basic development task
-   - Prove you have elementary knowledge with GIT and build systems
-   - Setup a GitHub repo
-   - Commit code with simple functionality
-   - Include tests, documentation
-   - Use build system of your choice (makefile, cmake, gradle, ...)
-   - CI setup (e.g., Travis)
-   - Setup style check as a part of the CI
-  
-### Advanced git
-   - For repository prepared by us
-   - Fix assigned issue (new feature, add tests, documentation, write proper pull request)
-   - Upstream changes meanwhile, practice rebase
+In order to pass the course, the student must:
 
+* **Contribute to an existing open-source project in scope of 50-60 hours.**  
+The student chooses the open-source project for contribution themself, but this selection must be approved by the teachers till 29th September. Tasks from the [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/) are pre-approved. If you choose elsewhere, look for known active projects that you are not yet part of.
+* **Track time spent on the project.**  
+It is beneficial to develop such a habbit for further contract work the student could have later.
+* **Hand in two compulsory homework assignments.**  
+These will cover git, CI/CD systems, pull requests and basic developer best practices. An approximate description of tasks can be found in the file [assignments.md](assignments.md).
+* **Deliver three short presentation (10 minutes talks) about your work.**  
+This will be the initial work planning, mid-term progress update and final presentation at the end.
+
+## Technicalities
+
+* **IS course info:** https://is.muni.cz/course/fi/autumn2019/PB173
+* **Lecture time:** Wednesdays, 10:00-11:40
+* **Lecture room:** FI MU S505 Red Hat lab (note that the room is only available during lecture time)
 
 ------------------------------------------------------------------------------------------
+
 ## Course Overview
 
 ### Week 1: Course intro
