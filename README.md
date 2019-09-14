@@ -22,6 +22,7 @@ The lectures provided are not compulsory but are highly reccommended.
 * **IS course info:** https://is.muni.cz/course/fi/autumn2019/PB173
 * **Lecture time:** Wednesdays, 10:00-11:40
 * **Lecture room:** FI MU S505 Red Hat lab (note that the room is only available during lecture time)
+* **Admission:** All the lectures are public, open to anyone
 
 ## Lecture Overview
 
