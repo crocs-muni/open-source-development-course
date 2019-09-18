@@ -9,7 +9,7 @@ In order to pass the course, the student must:
 * **Contribute to an existing open-source project in scope of 50-60 hours.**  
 The student chooses the open-source project for contribution themself, but this selection must be approved by the teachers till 29th September. Tasks from the [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/) are pre-approved. If you choose elsewhere, look for known active projects that you are not yet part of.
 * **Track time spent on the project.**  
-It is beneficial to develop such a habbit for further contract work the student could have later.
+It is beneficial to develop such a habbit for further contract work the student could have later. (Teacher recommendation: [Toggl](https://toggl.com/) is nice, but pen-and-paper also work.)
 * **Hand in two compulsory homework assignments.**  
 These will cover git, CI/CD systems, pull requests and basic developer best practices. An approximate description of tasks can be found in the file [assignments.md](assignments.md).
 * **Deliver three short presentation (10 minutes talks) about your work.**  
