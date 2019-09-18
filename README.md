@@ -1,6 +1,6 @@
 # PB173/oss: Open Source Development Course
 
-The main goal of the course is to help and encourage university students to join the development of real-world open-source software. The course consists of 4--5 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development. We closely cooperate with [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/).
+The main goal of the course is to help and encourage university students to join the development of real-world open-source software. The course consists of 4–5 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development. We closely cooperate with [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/).
 
 ## Course requirements
 
@@ -51,7 +51,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 4 (9. 10.): Project build, CI/CD, maintenance and lifecycle
 
-* _Delivered by Vojtěch Trefný (Red Hat)_
+* _Delivered by Vojtěch Trefný (Red Hat), Marek Čermák (Red Hat)_
 * Control source versioning
 * Project management, build tools, CI/CD
 * Documentation, code style
