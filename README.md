@@ -15,7 +15,7 @@ These will cover git, CI/CD systems, pull requests and basic developer best prac
 * **Deliver three short presentation (10 minutes talks) about your work.**  
 This will be the initial work planning, mid-term progress update and final presentation at the end.
 * **(optionally) Attend lectures on open source development**  
-The lectures provided are not compulsory but are highly reccommended.
+The lectures provided are not compulsory but are highly recommended.
 
 ## Technicalities
 
