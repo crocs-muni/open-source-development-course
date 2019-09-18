@@ -42,7 +42,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Communication among developers
 * Open source communities, open source in Brno
 
-### Week 3 (1. 10.): Introduction to Git (optional)
+### Week 3 (2. 10.): Introduction to Git (optional)
 
 * _Delivered by ???_
 * Basic git principles and commands
