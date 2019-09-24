@@ -26,7 +26,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 ## Lecture Overview
 
-### Week 1 (18. 9.): Course intro
+### Week 1 (18. 9.): Course intro ([slides](lectures/01_course-intro.pdf))
 
 * General course overview
 * Course plan, requirements, Red Hat Open Source Contest
