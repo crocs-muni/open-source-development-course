@@ -44,7 +44,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 3 (2. 10.): Introduction to Git (optional)
 
-* _Delivered by ???_
+* _This lecture **WILL NOT happen**, as all the students seem to already know the git basics._
 * Basic git principles and commands
 * Commits, staging, pull/push, branches
 * GUIs, GitHub integration
