@@ -49,7 +49,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Commits, staging, pull/push, branches
 * GUIs, GitHub integration
 
-### Week 4 (9. 10.): Project build, CI/CD, maintenance and lifecycle
+### Week 4 (9. 10.): Project management, build pipeline and lifecycle
 
 * _Delivered by Vojtěch Trefný (Red Hat), Marek Čermák (Red Hat)_
 * Control source versioning
@@ -63,7 +63,7 @@ The lectures provided are not compulsory but are highly recommended.
 * 10 minutes talks of the current progress
 * Rough time plan, estimates
 
-### Week 6 (23. 10.): Advanced Git features
+### Week 6 (23. 10.): Advanced usage of Git
 
 * _Delivered by Irina Gulina (Red Hat), this talk will be in English_
 * Git in multi-developer setup (branching, merging, conflicts, ...)
@@ -81,7 +81,7 @@ The lectures provided are not compulsory but are highly recommended.
 * 10 minutes talks of the current progress
 * Reflection and revision of the plan
 
-### Week 9 (13. 11.): Licenses
+### Week 9 (13. 11.): Open source licences
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law anf Technology, MU)_
 * Historical overview
