@@ -31,7 +31,7 @@ The lectures provided are not compulsory but are highly recommended.
 * General course overview
 * Course plan, requirements, Red Hat Open Source Contest
 
-### Week 2 (25. 9.): Introduction to the open-source world
+### Week 2 (25. 9.): Introduction to the open-source world ([slides](lectures/02_opensource-intro.pdf))
 
 * _Delivered by Milan Brož (Red Hat)_
 * What does open source development include?
