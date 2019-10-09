@@ -49,7 +49,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Commits, staging, pull/push, branches
 * GUIs, GitHub integration
 
-### Week 4 (9. 10.): Project management, build pipeline and lifecycle
+### Week 4 (9. 10.): Project management, build pipeline and lifecycle ([slides](lectures/03_project-management-build-ci.pdf))
 
 * _Delivered by Vojtěch Trefný (Red Hat), Marek Čermák (Red Hat)_
 * Control source versioning
