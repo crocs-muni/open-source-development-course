@@ -60,8 +60,12 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 5 (16. 10.): Student status update 1
 
-* 10 minutes talks of the current progress
-* Rough time plan, estimates
+* Short talks of the current progress (max 10 minutes)
+* The presentation should include:
+  * Introduce the project you chose (the others should understand, what it is good for).
+  * What do you plan to do? (What will the contribution probably be?)
+  * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
+  * What system do you use to track time? How much time have you already spent on the project?
 
 ### Week 6 (23. 10.): Advanced usage of Git
 
