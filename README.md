@@ -85,7 +85,7 @@ The lectures provided are not compulsory but are highly recommended.
 * 10 minutes talks of the current progress
 * Reflection and revision of the plan
 * Slides are required (to keep the presentation clear and flowing)
-* Include slide with your time sheet spent on the project, low granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
+* Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
 ### Week 9 (13. 11.): Open source licences
 
