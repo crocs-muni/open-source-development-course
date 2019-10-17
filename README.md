@@ -9,7 +9,7 @@ In order to pass the course, the student must:
 * **Contribute to an existing open-source project in scope of 50-60 hours.**  
 The student chooses the open-source project for contribution themself, but this selection must be approved by the teachers till 29th September. Tasks from the [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/) are pre-approved. If you choose elsewhere, look for known active projects that you are not yet part of.
 * **Track time spent on the project.**  
-It is beneficial to develop such a habbit for further contract work the student could have later. (Teacher recommendation: [Toggl](https://toggl.com/) is nice, but pen-and-paper also work.)
+It is beneficial to develop such a habbit for further contract work the student could have later. (Teacher recommendation: [Toggl](https://toggl.com/) is nice, but pen-and-paper also work.) Detailed time sheets are required to pass the course. It has to be fine-grained, i.e., each work unit has to be stored in the time sheet, with corresponding date, time elapsed and work you did in that period. It is highly recommended to use Toggl, which does the tracking.
 * **Hand in two compulsory homework assignments.**  
 These will cover git, CI/CD systems, pull requests and basic developer best practices. An approximate description of tasks can be found in the file [assignments.md](assignments.md).
 * **Deliver three short presentation (10 minutes talks) about your work.**  
@@ -84,6 +84,8 @@ The lectures provided are not compulsory but are highly recommended.
 
 * 10 minutes talks of the current progress
 * Reflection and revision of the plan
+* Slides are required (to keep the presentation clear and flowing)
+* Include slide with your time sheet spent on the project, low granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
 ### Week 9 (13. 11.): Open source licences
 
