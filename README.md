@@ -67,7 +67,7 @@ The lectures provided are not compulsory but are highly recommended.
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 6 (23. 10.): Advanced usage of Git
+### Week 6 (23. 10.): Advanced usage of Git ([slides](lectures/06_advanced-git.pdf), [git sandbox](http://bit.ly/devconf19-gtw))
 
 * _Delivered by Irina Gulina (Red Hat), this talk will be in English_
 * Git in multi-developer setup (branching, merging, conflicts, ...)
