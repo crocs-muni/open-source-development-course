@@ -8,12 +8,13 @@ The course has two compulsory homework assignments.
 
 Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer best practices.
 
-* Setup a GitHub repository.
-* Commit a small piece of code with simple functionality.
-* Include some tests and documentation.
+* Setup a GitHub repository, called `ossdev-01-${UCO}`, e.g., `ossdev-01-325219`
+* Commit a small piece of code with simple functionality in `{C, C++, Java, Kotlin, PHP, JavaScript}`.
+* Properly cover the implemented feature by tests and documentation.
 * Setup a build system of your choice (makefile, cmake, gradle, ...).
-* Setup a CI/CD system (e.g. Travis).
+* Setup a CI/CD system (e.g. Travis, which is recommended on the GitHub).
 * Setup style check or other extra step as a part of the CI process.
+* Submit detailed timesheet to the IS file vault, which will have separate entries for a) coding, b) implementing tests c) writing docs d) setting up project / build system / style check.
   
 ## 2: Multi-developer scenario
 
