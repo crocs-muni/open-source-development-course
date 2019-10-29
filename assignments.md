@@ -9,7 +9,7 @@ The course has two compulsory homework assignments.
 Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer best practices.
 
 * Setup a GitHub repository under your personal account, called `ossdev-01-${UCO}`, e.g., `ossdev-01-325219`
-* Commit a small piece of code with simple functionality in `{C, C++, Java, Kotlin, PHP, JavaScript}`.
+* Commit a small piece of code with simple functionality in `{C, C++, Java, Kotlin, PHP, JavaScript}`. Assignment: take input two numbers `a, b`, print all primes in the interval `[a, b]`. Use algorithm of your choice (e.g., trial division, sieve). It us just a demo, not an algorithmic competition.
 * Properly cover the implemented feature by tests and documentation.
 * Setup a build system of your choice (makefile, cmake, gradle, ...).
 * Setup a CI/CD system (e.g. Travis, which is recommended on the GitHub).
