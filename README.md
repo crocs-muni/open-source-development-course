@@ -88,7 +88,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 9 (13. 11.): Open source licences
+### Week 9 (13. 11.): Open source licences ([slides](lectures/09_open-source-licences.pdf))
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law anf Technology, MU)_
 * Historical overview
