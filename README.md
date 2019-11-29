@@ -108,8 +108,16 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 12 (4. 12.): Final presentations
 
-* Deadline for finishing the open source contributions
-* Final project presentations
+* Deadline for finishing the open source contributions (exceptions allowed in justified cases)
+* Final project presentations (10 minutes, slides required)
+* Start with a short (!) reminder of what is the project about
+* Present the work that you have done (including the information whether this was merged upstream or not)
+* Include the final overview of time spent on the project, split to a) study b) coding c) communication/management
+* Summarize the hings you have learned by doing the open-source contribution (avoid general formulations, try to be specific and don't wave this off in 1 minute – it's important)
+* Before the lecture, please submit these files to the IS vault
+  * Slides of your final presentation (PDF)
+  * The detailed timesheet of your contribution
+  * A list of your pull requests (a simple text file with a couple of links is sufficient)
 
 ### Week 13 (11. 12.): No lecture
 
