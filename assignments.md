@@ -2,7 +2,7 @@
 
 The course has two compulsory homework assignments.
 
-## 1: Single-developer scenario (deadline 30. 11.)
+## 1: Single-developer scenario (deadline 30. 11. 2019)
 
 Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer best practices.
 
@@ -15,9 +15,7 @@ Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer 
 * Submit `repo.txt` to the IS file vault with the single line, the URL for your GitHub repository (HTTPS web view).
 * Submit detailed timesheet to the IS file vault named `time.txt`, which will have separate entries for a) coding, b) implementing tests c) writing docs d) setting up project / build system / style check. 
   
-## 2: Multi-developer scenario
-
-**Suggested deadline: 31st January 2020, 23:59 CET.**
+## 2: Multi-developer scenario (deadline 31. 1. 2020)
 
 Prove you can use git to interact with existing reositories, resolve conflicts and adjust git history.
 Create a text file `ossdev-hw-02-uco.txt` and mark mentioned info to the file as noted below in the assignment. 
