@@ -22,6 +22,8 @@ Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer 
 Prove you can use git to interact with existing reositories, resolve conflicts and adjust git history.
 Create a text file `ossdev-hw-02-uco.txt` and mark mentioned info to the file as noted below.
 
+Setup signed commits on GitHub. Signed commit is a hard requirements for a PR to merge.
+
 ### Step 1
 - Fork https://github.com/ph4r05/ossdev-hw-02-step1. It is a very simple Python implementation of a vector with simple operations.
 - Create a new branch called `pr/step1`
