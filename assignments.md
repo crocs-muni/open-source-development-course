@@ -54,7 +54,8 @@ Imagine something happened, 8 months passed, repository changed the maintainer a
 - Rebase all your changes on top of the `open-source-development-course-hw02-2/master`.
 - Fix conflicts reasonably.
 - Fix all remaining TODOs and add minor tests in a separate commit (nothing extra complicated, just some pieces of code).
-- Create a new PR in the `open-source-development-course-hw02-2`, the previous PR has to be left intact.
+- Fix unit tests, as in this PR: https://github.com/crocs-muni/open-source-development-course-hw02-2/pull/1
+- Create a new PR in the `open-source-development-course-hw02-1`, the previous PR has to be left intact.
 - Create a branch `pr/step2-old` that points to your HEAD. Note new commit IDs to the file.
 - Same as before - squash to one commit. Add commit ID to the file.
 - Add a comment to the PR saying "Done" to the step2 PR.
