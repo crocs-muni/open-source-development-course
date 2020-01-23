@@ -49,9 +49,9 @@ Before doing the squash, create a branch `pr/step1-old` that points to your curr
 
 Imagine something happened, 8 months passed, repository changed the maintainer and some changes to the code were made.
 
-- Add a new remote repository to your fork: `https://github.com/open-source-development-course-hw02-2`.
-- Create a new branch `pr/step2` that points to your HEAD. All branches from previous steps have to stay intact.
-- Rebase all your changes on top of the `open-source-development-course-hw02-2/master`.
+- Add a new remote repository to your fork: `https://github.com/crocs-muni/open-source-development-course-hw02-2`.
+- Create a new branch `pr/step2` that points to your HEAD (`pr/step1`). All branches from previous steps have to stay intact.
+- Rebase all your changes (`pr/step2`) on top of the `open-source-development-course-hw02-2/master`.
 - Fix conflicts reasonably.
 - Fix all remaining TODOs and add minor tests in a separate commit (nothing extra complicated, just some pieces of code).
 - Fix unit tests, as in this PR: https://github.com/crocs-muni/open-source-development-course-hw02-2/pull/1
