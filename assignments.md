@@ -59,3 +59,4 @@ Imagine something happened, 8 months passed, repository changed the maintainer a
 - Create a branch `pr/step2-old` that points to your HEAD. Note new commit IDs to the file.
 - Same as before - squash to one commit. Add commit ID to the file.
 - Add a comment to the PR saying "Done" to the step2 PR.
+- Add the file with commit IDs to the PR2, as a new comment, plaintext, no attachments.
