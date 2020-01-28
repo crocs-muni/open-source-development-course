@@ -12,8 +12,8 @@ In order to pass the course, the student must:
 The student chooses the open-source project for contribution themself, but this selection must be approved by the teachers till 1st of March. Tasks from the [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/) are pre-approved. If you choose elsewhere, look for known active projects that you are not yet part of.
 * **Track time spent on the project.**  
 The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management).
-* **Hand in two compulsory homework assignments.**  
-These will cover git, CI/CD systems, pull requests and basic developer best practices. An approximate description of tasks can be found in the file [assignments.md](assignments.md).
+* **Hand in three compulsory homework assignments.**  
+These will cover git, CI/CD systems, pull requests, basic developer best practices and open-source licences. An approximate description of tasks can be found in the file [assignments.md](assignments.md).
 * **Deliver three short presentation (10 minutes talks) about your work.**  
 This will be the initial work planning, mid-term progress update and final presentation at the end.
 * **(optionally) Attend lectures on open source development**  
