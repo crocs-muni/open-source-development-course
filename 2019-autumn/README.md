@@ -1,8 +1,8 @@
-# PB173/oss: Open Source Development Course
+# PB173/oss: Autumn 2019
+
+Details of the open source development course for the autumn semester of 2019.
 
 The main goal of the course is to help and encourage university students to join the development of real-world open-source software. The course consists of 4–5 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development. We closely cooperate with [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/).
-
-The information in this file reflect the spring semester of 2020. For information on older semesters, see [autumn 2019](2019-autumn).
 
 ## Course requirements
 
@@ -28,12 +28,12 @@ The lectures provided are not compulsory but are highly recommended.
 
 ## Lecture Overview
 
-### Week 1 (18. 9.): Course intro ([slides](lectures/01_course-intro.pdf))
+### Week 1 (18. 9.): Course intro ([slides](01_course-intro.pdf))
 
 * General course overview
 * Course plan, requirements, Red Hat Open Source Contest
 
-### Week 2 (25. 9.): Introduction to the open-source world ([slides](lectures/02_opensource-intro.pdf))
+### Week 2 (25. 9.): Introduction to the open-source world ([slides](02_opensource-intro.pdf))
 
 * _Delivered by Milan Brož (Red Hat)_
 * What does open source development include?
@@ -51,7 +51,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Commits, staging, pull/push, branches
 * GUIs, GitHub integration
 
-### Week 4 (9. 10.): Project management, build pipeline and lifecycle ([slides](lectures/04_project-management-build-ci.pdf))
+### Week 4 (9. 10.): Project management, build pipeline and lifecycle ([slides](04_project-management-build-ci.pdf))
 
 * _Delivered by Vojtěch Trefný (Red Hat), Marek Čermák (Red Hat)_
 * Control source versioning
@@ -69,7 +69,7 @@ The lectures provided are not compulsory but are highly recommended.
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 6 (23. 10.): Advanced usage of Git ([slides](lectures/06_advanced-git.pdf), [git sandbox](http://bit.ly/devconf19-gtw))
+### Week 6 (23. 10.): Advanced usage of Git ([slides](06_advanced-git.pdf), [git sandbox](http://bit.ly/devconf19-gtw))
 
 * _Delivered by Irina Gulina (Red Hat), this talk will be in English_
 * Git in multi-developer setup (branching, merging, conflicts, ...)
@@ -90,7 +90,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 9 (13. 11.): Open source licences ([slides](lectures/09_open-source-licences.pdf))
+### Week 9 (13. 11.): Open source licences ([slides](09_open-source-licences.pdf))
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law anf Technology, MU)_
 * Historical overview
