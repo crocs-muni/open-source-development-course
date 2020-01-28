@@ -61,3 +61,6 @@ Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer 
 * Submit `repo.txt` to the IS file vault with the single line, the URL for your GitHub repository (HTTPS web view).
 * Submit detailed timesheet to the IS file vault named `time.txt`, which will have separate entries for a) coding, b) implementing tests c) writing docs d) setting up project / build system / style check. 
   
+## 3: Open-source licences (deadline TBA)
+
+Assignment details will be added later in the semester.
