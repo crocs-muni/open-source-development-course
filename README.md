@@ -35,7 +35,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 2 (27. 2.): Git workshop
 
-* _Delivered by Irina Gulina (Red Hat), this talk will be in English_
+* _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * **Workshop-style: Bring your notebook!**
 * Git in multi-developer setup (branching, merging, conflicts, ...)
 * Power features in git (rebase, reorder, squash, stash, cherry-pick, conflicts with history overwrite, ...)
