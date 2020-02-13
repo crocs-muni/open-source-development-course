@@ -117,6 +117,10 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 13 (14. 5.): Final presentations
 
+* No lectuure (Dies Academicus, Industry partners day)
+
+### Week 14 (21. 5.): No lecture
+
 * Deadline for finishing the open source contributions (exceptions allowed in justified cases)
 * Final project presentations (10 minutes, slides required)
 * Start with a short (!) reminder of what is the project about
@@ -127,7 +131,3 @@ The lectures provided are not compulsory but are highly recommended.
   * Slides of your final presentation (PDF)
   * The detailed timesheet of your contribution
   * A list of your pull requests (a simple text file with a couple of links is sufficient)
-
-### Week 14 (21. 5.): No lecture
-
-* Unofficial meetings (=beer) possible
