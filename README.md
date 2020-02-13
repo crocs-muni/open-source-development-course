@@ -30,29 +30,30 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 1 (20. 2.): Course intro
 
-* General course overview
-* Course plan, requirements, Red Hat Open Source Contest
+* Course structure and requirements
+* Red Hat Open Source Contest
+* Choosing a project (basic liveness checks)
 
 ### Week 2 (27. 2.): Git workshop
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * **Workshop-style: Bring your notebook!**
+* Recap of git basics (workflow, commits, remotes, ...)
 * Git in multi-developer setup (branching, merging, conflicts, ...)
-* Power features in git (rebase, reorder, squash, stash, cherry-pick, conflicts with history overwrite, ...)
-* Advanced features (submodules, LFS, commit signing, ...)
-* Good and bad practices
-* GitHub specifics (cross-referencing issue/PR/commit, code review, PR labeling, ...)
+* Power features in git (rebase, reorder, squash, stash, cherry-pick, ...)
+* Pull requests and their adjustments
+* Solving local and public trouble
+* Git etiquette (good and bad practices)
 
 ### Week 3 (5. 3.): Introduction to the open-source world
 
 * _Delivered by Milan Brož (Red Hat)_
-* What does open source development include?
-* Short introduction to licencing
-* Examples of project management
-* Project culture and best practices
-* The world of project maintainers
-* Communication among developers
-* Open source communities, open source in Brno
+* Proprietary vs. open
+* Open source prohect management and inrastructure
+* Open source licencing
+* Open source culture
+* Communication (and politics and psychology)
+* View of the maintainer
 
 ### Week 4 (12. 3.): Student status update 1
 
@@ -66,17 +67,20 @@ The lectures provided are not compulsory but are highly recommended.
 ### Week 5 (19. 3.): Project management and lifecycle
 
 * _Delivered by Marek Čermák (Red Hat)_
-* Control source versioning
-* Project management, build tools
-* Documentation, code style
-* Dependency management, publishing, packaging and repositories
+* Different views of the project
+* Project plannig, lifecycle and versioning
+* Basic contribution workflow
+* Software dependencies
 * Security aspects of development
 
 ### Week 6 (26. 3.): Continuous integration and development (CI/CD)
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
-* Continous integration
-* Continunous deployment
+* CI/CD pipeline
+* Code style and documentation
+* Build tools
+* Tests and coverage
+* Packiging and publishing
 
 ### Week 7 (2. 4.): No lecture
 
@@ -97,12 +101,11 @@ The lectures provided are not compulsory but are highly recommended.
 ### Week 10 (23. 4.): Open source licences
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law anf Technology, MU)_
-* Historical overview
+* Basic legal context of software licences
 * Understanding the differences: free, libre, open-source, proprietary, FOSS, FLOSS
 * Common software licenses (MIT, BSD, Apache, ...)
 * GPL+LGPL, their benefits and their specifics
 * Licencing your code
-* Legal aspects of open-source licences
 
 ### Week 11 (30. 4.): No lecture  
 
