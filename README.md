@@ -49,8 +49,8 @@ The lectures provided are not compulsory but are highly recommended.
 
 * _Delivered by Milan Brož (Red Hat)_
 * Proprietary vs. open
-* Open source prohect management and inrastructure
-* Open source licencing
+* Open source project management and infrastructure
+* Open source licensing
 * Open source culture
 * Communication (and politics and psychology)
 * View of the maintainer
@@ -68,7 +68,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 * _Delivered by Marek Čermák (Red Hat)_
 * Different views of the project
-* Project plannig, lifecycle and versioning
+* Project planning, lifecycle and versioning
 * Basic contribution workflow
 * Software dependencies
 * Security aspects of development
@@ -80,7 +80,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Code style and documentation
 * Build tools
 * Tests and coverage
-* Packiging and publishing
+* Packaging and publishing
 
 ### Week 7 (2. 4.): No lecture
 
@@ -100,12 +100,12 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 10 (23. 4.): Open source licences
 
-* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law anf Technology, MU)_
+* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
 * Basic legal context of software licences
 * Understanding the differences: free, libre, open-source, proprietary, FOSS, FLOSS
 * Common software licenses (MIT, BSD, Apache, ...)
 * GPL+LGPL, their benefits and their specifics
-* Licencing your code
+* Licensing your code
 
 ### Week 11 (30. 4.): No lecture  
 
