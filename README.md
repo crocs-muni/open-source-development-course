@@ -86,17 +86,17 @@ The lectures provided are not compulsory but are highly recommended.
 
 * Consultations possible
 
-### Week 8 (9. 4.): Student status update 2
+### Week 9 (9. 4.): No lecture
+
+* Consultations possible
+
+### Week 8 (16. 4.): Student status update 2
 
 * 10 minutes talks of the current progress
 * Short reminder of what is the project about is good, though much shorter than in status update 1
 * Present the reflection of your plan (Has it gone as you wanted/expected?) and its revision (if necessary)
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
-
-### Week 9 (16. 4.): No lecture
-
-* Consultations possible
 
 ### Week 10 (23. 4.): Open source licences
 
