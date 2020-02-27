@@ -34,7 +34,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Red Hat Open Source Contest
 * Choosing a project (basic liveness checks)
 
-### Week 2 (27. 2.): Git workshop
+### Week 2 (27. 2.): Git workshop ([slides](02-git.pdf))
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * **Workshop-style: Bring your notebook!**
