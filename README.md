@@ -60,7 +60,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Short talks of the current progress (max 10 minutes)
 * The presentation should include:
   * Introduce the project you chose (the others should understand, what it is good for).
-  * What do you plan to do? (What will the contribution probably be?)
+  * What do you plan to do? (What will the contribution probably be?) If there are specific issues/bug reports you plan to address, mention them.
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
