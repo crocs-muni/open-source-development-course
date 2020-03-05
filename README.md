@@ -45,7 +45,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Solving local and public trouble
 * Git etiquette (good and bad practices)
 
-### Week 3 (5. 3.): Introduction to the open-source world
+### Week 3 (5. 3.): Introduction to the open-source world ([slides](03-opensource-intro.pdf), [feedback](https://forms.gle/GDYPpMtoqwgje2n67))
 
 * _Delivered by Milan Brož (Red Hat)_
 * Proprietary vs. open
