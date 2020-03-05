@@ -2,7 +2,7 @@
 
 The course has two compulsory homework assignments.
 
-## 1: Multi-developer scenario (deadline 15. 3. 2020)
+## 1: Multi-developer scenario (deadline 19. 3. 2020)
 
 Prove you can use git to interact with existing reositories, resolve conflicts and adjust git history.
 Create a text file `ossdev-hw-02-uco.txt` and mark mentioned info to the file as noted below in the assignment. 
