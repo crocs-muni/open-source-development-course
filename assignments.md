@@ -5,7 +5,7 @@ The course has two compulsory homework assignments.
 ## 1: Multi-developer scenario (deadline 19. 3. 2020)
 
 Prove you can use git to interact with existing reositories, resolve conflicts and adjust git history.
-Create a text file `ossdev-hw-02-uco.txt` and mark mentioned info to the file as noted below in the assignment. 
+Create a text file `ossdev-hw-01.txt` and mark mentioned info to the file as noted below in the assignment. 
 After you are done with the assignment, submit the file to the IS vault corresponding to the homework.
 
 Setup signed commits on GitHub (generate GPG key if you don't have one, add it to GitHub, make sure your git client can sign the commit). Check some online tutorial, it is quite easy to do.
@@ -21,14 +21,14 @@ You can finish the whole assignment on your own, without need to wait for our re
 - Make sure Travis is passing on your newly added commits (fix the currently broken build, you can just not build for the failing version).
 - Add Travis build badge to the Readme.
 - Add simple info about supported operations to the Readme.
-- Write down all commit IDs (hash) to the file `ossdev-hw-02-uco.txt`. 
+- Write down all commit IDs (hash) to the file `ossdev-hw-01.txt`. 
   - One commit ID per line, line starts with the commit ID.
   - There should be at least 2 separate commits, i.e., implementation, tests added.
   - Example: `845d5bae4a0edafb8100a311d185746abdacb58f - todo implemented` 
 - Create a PR with your changes against the forked repo, PR name has to start with `[WIP] [UCO]: ` with your UCO.
 - After PR is ready, imagine a reviewer tells you to add a simple python comment to the `__sub__` and to squash all the commits then. 
 Before doing the squash, create a branch `pr/step1-old` that points to your current HEAD. (So we can access the old commits before the squash.)
-- Do as reviewer told you, in the PR-branch `pr/step1`. Write down a commit ID to the file `ossdev-hw-02-uco.txt`.
+- Do as reviewer told you, in the PR-branch `pr/step1`. Write down a commit ID to the file `ossdev-hw-01.txt`.
 - Notify reviewer it's done with a PR comment, remove `[WIP]` from the PR title as your PR is approved now.
 - Please, Do not look at the step 2 before finishing step 1. We want to see the conflicts! >:) 
 
@@ -52,7 +52,7 @@ Imagine something happened, 8 months passed, repository changed the maintainer a
 
 Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer best practices.
 
-* Setup a GitHub repository under your personal account, called `ossdev-01-${UCO}`, e.g., `ossdev-01-325219`
+* Setup a GitHub repository under your personal account, called `ossdev-02-${UCO}`, e.g., `ossdev-02-325219`
 * Commit a small piece of code with simple functionality in `{C, C++, Java, Kotlin, Python, PHP}`. Assignment: take input two numbers `a, b`, print all primes in the interval `[a, b]`. Use algorithm of your choice (e.g., trial division, sieve). It us just a demo, not an algorithmic competition.
 * Properly cover the implemented feature by tests and documentation.
 * Setup a build system of your choice (makefile, cmake, gradle, ...) compiling the project (if relevant) and running the tests.
