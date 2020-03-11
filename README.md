@@ -66,6 +66,8 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 5 (19. 3.): Project management and lifecycle
 
+**Lecture CANCELED due to cancellation of contact teaching at MU.**
+
 * _Delivered by Marek Čermák (Red Hat)_
 * Different views of the project
 * Project planning, lifecycle and versioning
