@@ -57,6 +57,8 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 4 (12. 3.): Student status update 1
 
+** Coronavirtus adjustment: The status update will take place using a videoconference.**
+
 * Short talks of the current progress (max 10 minutes)
 * The presentation should include:
   * Introduce the project you chose (the others should understand, what it is good for).
@@ -66,7 +68,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 5 (19. 3.): Project management and lifecycle
 
-**Lecture CANCELED due to cancellation of contact teaching at MU.**
+** Coronavirtus adjustment: Lecture in person cancelled, annotated slides will be available.**
 
 * _Delivered by Marek Čermák (Red Hat)_
 * Different views of the project
@@ -76,6 +78,8 @@ The lectures provided are not compulsory but are highly recommended.
 * Security aspects of development
 
 ### Week 6 (26. 3.): Continuous integration and development (CI/CD)
+
+** Coronavirtus adjustment: Lecture in person cancelled, annotated slides will be available.**
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * CI/CD pipeline
