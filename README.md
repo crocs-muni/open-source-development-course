@@ -66,7 +66,7 @@ The lectures provided are not compulsory but are highly recommended.
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 5 (19. 3.): Project management and lifecycle
+### Week 5 (19. 3.): Project management and lifecycle ([annotated slides](https://docs.google.com/presentation/d/1m4zzmnCjp3cyBYM9LcZuBpSxHNI-Ki91kzTvS5pUUVk/edit#slide=id.g61dbcadc6f_0_785))
 
 ** Coronavirtus adjustment: Lecture in person cancelled, annotated slides will be available.**
 
