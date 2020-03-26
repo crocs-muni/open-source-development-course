@@ -77,7 +77,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Software dependencies
 * Security aspects of development
 
-### Week 6 (26. 3.): Continuous integration and development (CI/CD) ([slides](06-ci-cd.pdf), [annotated slides](06-ci-cd-with-notes.pdf), [feedback](https://forms.gle/GDYPpMtoqwgje2n67))
+### Week 6 (26. 3.): Continuous integration and deployment (CI/CD) ([slides](06-ci-cd.pdf), [annotated slides](06-ci-cd-with-notes.pdf), [feedback](https://forms.gle/GDYPpMtoqwgje2n67))
 
 **Coronavirtus adjustment: The lecture will take place using teleconferencing.**
 
