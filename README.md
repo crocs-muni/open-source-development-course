@@ -57,7 +57,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 4 (12. 3.): Student status update 1
 
-** Coronavirtus adjustment: The status update will take place using a videoconference.**
+**Coronavirtus adjustment: The status update will take place using a videoconference.**
 
 * Short talks of the current progress (max 10 minutes)
 * The presentation should include:
@@ -68,7 +68,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 5 (19. 3.): Project management and lifecycle ([annotated slides](https://docs.google.com/presentation/d/1m4zzmnCjp3cyBYM9LcZuBpSxHNI-Ki91kzTvS5pUUVk/edit#slide=id.g61dbcadc6f_0_785), [pdf](05-project-management-lifecycle.pdf), [feedback](https://forms.gle/GDYPpMtoqwgje2n67))
 
-** Coronavirtus adjustment: Lecture in person cancelled, annotated slides will be available.**
+**Coronavirtus adjustment: Lecture in person cancelled, annotated slides available.**
 
 * _Delivered by Marek Čermák (Red Hat)_
 * Different views of the project
@@ -79,7 +79,7 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 6 (26. 3.): Continuous integration and development (CI/CD) ([slides](06-ci-cd.pdf), [annotated slides](06-ci-cd-with-notes.pdf), [feedback](https://forms.gle/GDYPpMtoqwgje2n67))
 
-** Coronavirtus adjustment: Lecture in person cancelled, annotated slides will be available.**
+**Coronavirtus adjustment: The lecture will take place using teleconferencing.**
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * CI/CD pipeline
@@ -98,6 +98,8 @@ The lectures provided are not compulsory but are highly recommended.
 
 ### Week 8 (16. 4.): Student status update 2
 
+**Coronavirtus adjustment: The status update will take place using a videoconference.**
+
 * 10 minutes talks of the current progress
 * Short reminder of what is the project about is good, though much shorter than in status update 1
 * Present the reflection of your plan (Has it gone as you wanted/expected?) and its revision (if necessary)
@@ -105,6 +107,8 @@ The lectures provided are not compulsory but are highly recommended.
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
 ### Week 10 (23. 4.): Open source licences
+
+**Coronavirtus adjustment: The lecture will take place using teleconferencing.**
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
 * Basic legal context of software licences
@@ -126,6 +130,8 @@ The lectures provided are not compulsory but are highly recommended.
 * No lectuure (Dies Academicus, Industry partners day)
 
 ### Week 14 (21. 5.): Final presentations
+
+**Coronavirtus adjustment: The status update will take place using a videoconference.**
 
 * Deadline for finishing the open source contributions (exceptions allowed in justified cases)
 * Final project presentations (10 minutes, slides required)
