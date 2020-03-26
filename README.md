@@ -66,7 +66,7 @@ The lectures provided are not compulsory but are highly recommended.
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 5 (19. 3.): Project management and lifecycle ([annotated slides](https://docs.google.com/presentation/d/1m4zzmnCjp3cyBYM9LcZuBpSxHNI-Ki91kzTvS5pUUVk/edit#slide=id.g61dbcadc6f_0_785))
+### Week 5 (19. 3.): Project management and lifecycle ([annotated slides](https://docs.google.com/presentation/d/1m4zzmnCjp3cyBYM9LcZuBpSxHNI-Ki91kzTvS5pUUVk/edit#slide=id.g61dbcadc6f_0_785), [pdf](05-project-management-lifecycle.pdf), [feedback](https://forms.gle/GDYPpMtoqwgje2n67))
 
 ** Coronavirtus adjustment: Lecture in person cancelled, annotated slides will be available.**
 
@@ -77,7 +77,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Software dependencies
 * Security aspects of development
 
-### Week 6 (26. 3.): Continuous integration and development (CI/CD) ([slides](06-ci-cd.pdf), [annotated slides](06-ci-cd-with-notes.pdf))
+### Week 6 (26. 3.): Continuous integration and development (CI/CD) ([slides](06-ci-cd.pdf), [annotated slides](06-ci-cd-with-notes.pdf), [feedback](https://forms.gle/GDYPpMtoqwgje2n67))
 
 ** Coronavirtus adjustment: Lecture in person cancelled, annotated slides will be available.**
 
