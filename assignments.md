@@ -61,6 +61,11 @@ Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer 
 * Submit `repo.txt` to the IS file vault with the single line, the URL for your GitHub repository (HTTPS web view).
 * Submit detailed timesheet to the IS file vault named `time.txt`, which will have separate entries for a) coding, b) implementing tests c) writing docs d) setting up project / build system / style check. 
   
-## 3: Open-source licences (deadline TBA)
+## 3: Open-source licences (deadline 7. 5. 2020)
 
-Assignment details will be added later in the semester.
+Prove a basic knowledge of licencing. Submit the short report in a text file `hw03.txt` to the homework vault in the information system.
+
+* Locate the the licence information of the open-source project you contribute to. Write the URL to the licence file into the report.
+* Read the licence in full (or skim through it if it's long).
+* Imagine you develop a product you are selling commercially. Can you incorporate this open source project in the sold product without violating its licence? If so, are there any conditions you must meet? Write your reasoning into the report.
+* Imagine you want to integrate the [QGIS project](https://github.com/qgis/QGIS) into the open-source project you're contributing to. Are the licences compatible? Write your resoning (with links to used sources, if applicable) into the report. (Note: This may be more complicated than it sounds depending on your project. Don't spend an excessive amount of time on this part.)
