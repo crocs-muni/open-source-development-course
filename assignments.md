@@ -65,7 +65,7 @@ Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer 
 
 Prove a basic knowledge of licencing. Submit the short report in a text file `hw03.txt` to the homework vault in the information system.
 
-* Locate the the licence information of the open-source project you contribute to. Write the URL to the licence file into the report.
+* Locate the licence information of the open-source project you contribute to. Write the URL to the licence file into the report.
 * Read the licence in full (or skim through it if it's long).
 * Imagine you develop a product you are selling commercially. Can you incorporate this open source project in the sold product without violating its licence? If so, are there any conditions you must meet? Write your reasoning into the report.
 * Imagine you want to integrate the [QGIS project](https://github.com/qgis/QGIS) into the open-source project you're contributing to. Are the licences compatible? Write your resoning (with links to used sources, if applicable) into the report. (Note: This may be more complicated than it sounds depending on your project. Don't spend an excessive amount of time on this part.)
