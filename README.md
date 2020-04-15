@@ -106,7 +106,7 @@ The lectures provided are not compulsory but are highly recommended.
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 10 (23. 4.): Open source licences
+### Week 10 (23. 4.): Open source licences ([sldies](10-licences.pdf), [Zoom teleconference](https://www.google.com/url?q=https://cesnet.zoom.us/j/677093060?pwd%3Dclp2N3NnR0lwRXAvVEkwK05GSERKUT09&sa=D&usd=2&usg=AOvVaw07XKniAXF5KXKUCr2D3zmv), [feedback](https://forms.gle/GDYPpMtoqwgje2n67))
 
 **Coronavirtus adjustment: The lecture will take place using teleconferencing.**
 
