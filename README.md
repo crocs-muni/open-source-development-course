@@ -137,9 +137,10 @@ The lectures provided are not compulsory but are highly recommended.
 * Final project presentations (10 minutes, slides required)
 * Start with a short (!) reminder of what is the project about
 * Present the work that you have done (including the information whether this was merged upstream or not)
-* Include the final overview of time spent on the project, split to a) study b) coding c) communication/management
-* Summarize the hings you have learned by doing the open-source contribution (avoid general formulations, try to be specific and don't wave this off in 1 minute – it's important)
-* Before the lecture, please submit these files to the IS vault
+* In the slides, include the final overview of time spent on the project, split to a) study b) coding c) communication/management
+* Summarize the things you have learned by doing the open-source contribution (avoid general formulations, try to be specific and don't wave this off in 1 minute – it's important)
+* Really, we mean the previous bullet point. What would you not know if you did not participate in the course? Both positive and negative (and neutral) learning are meant to be shared.
+* Before the lecture (till Wednesday night), please submit these files to the IS vault
   * Slides of your final presentation (PDF)
   * The detailed timesheet of your contribution
   * A list of your pull requests (a simple text file with a couple of links is sufficient)
