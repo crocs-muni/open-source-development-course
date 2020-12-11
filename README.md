@@ -1,6 +1,6 @@
 # PB173/oss: Open Source Development Course
 
-The main goal of the course is to help and encourage university students to join the development of real-world open-source software. The course consists of 4–5 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development. We cooperate with [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/).
+The main goal of the course is to help and encourage university students to join the development of real-world open-source software (in any programming language). The course consists of 5–6 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development. We cooperate with [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/).
 
 The information in this file reflect the spring semester of 2021. For information on older semesters, see [spring 2020](2020-spring/README.md) and [autumn 2019](2019-autumn/README.md).
 
