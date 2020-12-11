@@ -46,16 +46,7 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * Communication (and politics and psychology)
 * View of the maintainer
 
-### Week 3 (17. 3.): Student status update 1
-
-* Short talks of the current progress (max 10 minutes)
-* The presentation should include:
-  * Introduce the project you chose (the others should understand, what it is good for).
-  * What do you plan to do? (What will the contribution probably be?) If there are specific issues/bug reports you plan to address, mention them.
-  * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
-  * What system do you use to track time? How much time have you already spent on the project?
-
-### Week 4 (24. 3.): Project management and lifecycle
+### Week 3 (17. 3.): Project management and lifecycle
 
 * _Delivered by Marek Čermák (Red Hat) (tentative)_
 * Different views of the project
@@ -64,7 +55,7 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * Software dependencies
 * Security aspects of development
 
-### Week 5 (31. 3.): Continuous integration and deployment (CI/CD)
+### Week 4 (24. 3.): Continuous integration and deployment (CI/CD)
 
 * _Delivered by Vojtěch Trefný (Red Hat) (tentative)_
 * CI/CD pipeline
@@ -72,6 +63,15 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * Build tools
 * Tests and coverage
 * Packaging and publishing
+
+### Week 5 (31. 3.): Student status update 1
+
+* Short talks of the current progress (max 10 minutes)
+* The presentation should include:
+  * Introduce the project you chose (the others should understand, what it is good for).
+  * What do you plan to do? (What will the contribution probably be?) If there are specific issues/bug reports you plan to address, mention them.
+  * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
+  * What system do you use to track time? How much time have you already spent on the project?
 
 ### Week 6 (7. 4.): Git workshop
 
@@ -84,26 +84,14 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * Solving local and public trouble
 * Git etiquette (good and bad practices)
 
-### Week 7 (14. 4.): No lecture
-
-* Consultations possible
-
-### Week 8 (21. 4.): Student status update 2
-
-* 10 minutes talks of the current progress
-* Short reminder of what is the project about is good, though much shorter than in status update 1
-* Present the reflection of your plan (Has it gone as you wanted/expected?) and its revision (if necessary)
-* Slides are required (to keep the presentation clear and flowing)
-* Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
-
-### Week 9 (28. 4.): Technical documentation writing
+### Week 7 (14. 4.): Technical documentation writing
 
 * _Delivered by ??? (tentative)_
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
 
-### Week 11 (5. 5.): Open source licenses
+### Week 8 (21. 4.): Open source licenses
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU) (tentative)_
 * Basic legal context of software licenses
@@ -112,15 +100,27 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * GPL+LGPL, their benefits and their specifics
 * Licensing your code
 
-### Week 12 (12. 5.): No lecture
+### Week 9 (28. 4.): Student status update 2
+
+* 10 minutes talks of the current progress
+* Short reminder of what is the project about is good, though much shorter than in status update 1
+* Present the reflection of your plan (Has it gone as you wanted/expected?) and its revision (if necessary)
+* Slides are required (to keep the presentation clear and flowing)
+* Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
+
+### Week 10 (5. 5.): No lecture
 
 * Consultations possible
 
-### Week 13 (19. 5.): No lecture
+### Week 11 (12. 5.): No lecture
 
 * Consultations possible
 
-### Week 14 (26. 5.): Final presentations
+### Week 12 (19. 5.): No lecture
+
+* Consultations possible
+
+### Week 13 (26. 5.): Final presentations
 
 * Deadline for finishing the open source contributions (exceptions allowed in justified cases)
 * Final project presentations (10 minutes, slides required)
