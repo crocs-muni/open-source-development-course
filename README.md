@@ -1,6 +1,6 @@
 # PB173/oss: Open Source Development Course
 
-The main goal of the course is to help and encourage university students to join the development of real-world open-source software (in any programming language). The course consists of 5–6 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development. We cooperate with [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/).
+The main goal of the course is to help and encourage university students to join the development of real-world open-source software (in any programming language). The course consists of 5–6 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development.
 
 The information in this file reflect the spring semester of 2021. For information on older semesters, see [spring 2020](2020-spring/README.md) and [autumn 2019](2019-autumn/README.md).
 
@@ -9,7 +9,7 @@ The information in this file reflect the spring semester of 2021. For informatio
 In order to pass the course, the student must:
 
 * **Contribute to an existing open-source project in scope of 50-60 hours.**
-The student chooses the open-source project for contribution themselves, but this selection must be approved by the teachers till 1st of March. Tasks from the [Red Hat Open Source Contest](https://research.redhat.com/red-hat-open-source-contest/) are pre-approved. If you choose elsewhere, look for known active projects that you are not yet part of.
+The student chooses the open-source project for contribution themselves, but this selection must be approved by the teachers till 1st of March. Look for known active projects that you are not yet part of.
 * **Track time spent on the project.**
 The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management).
 * **Hand in three compulsory homework assignments.**
@@ -38,7 +38,7 @@ The lecture overview is only tentative: The individual lectures may still be shi
 
 ### Week 2 (10. 3.): Introduction to the open-source world
 
-* _Delivered by Milan Brož (Red Hat) (tentative)_
+* _Delivered by Milan Brož (Red Hat)_
 * Proprietary vs. open
 * Open source project management and infrastructure
 * Open source licensing
@@ -48,16 +48,14 @@ The lecture overview is only tentative: The individual lectures may still be shi
 
 ### Week 3 (17. 3.): Project management and lifecycle
 
-* _Delivered by Marek Čermák (Red Hat) (tentative)_
-* Different views of the project
-* Project planning, lifecycle and versioning
+* _Delivered by Vojtěch Trefný (Red Hat)_
 * Basic contribution workflow
 * Software dependencies
 * Security aspects of development
 
 ### Week 4 (24. 3.): Continuous integration and deployment (CI/CD)
 
-* _Delivered by Vojtěch Trefný (Red Hat) (tentative)_
+* _Delivered by Vojtěch Trefný (Red Hat)_
 * CI/CD pipeline
 * Code style and documentation
 * Build tools
@@ -75,7 +73,7 @@ The lecture overview is only tentative: The individual lectures may still be shi
 
 ### Week 6 (7. 4.): Git workshop
 
-* _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English (tentative)_
+* _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * **Workshop-style: Bring your notebook!**
 * Recap of git basics (workflow, commits, remotes, ...)
 * Git in multi-developer setup (branching, merging, conflicts, ...)
@@ -86,14 +84,14 @@ The lecture overview is only tentative: The individual lectures may still be shi
 
 ### Week 7 (14. 4.): Technical documentation writing
 
-* _Delivered by ??? (tentative)_
+* _Delivered by Shweta Jalgaonkar (Red Hat), this talk will be in English (tentative)_
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
 
 ### Week 8 (21. 4.): Open source licenses
 
-* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU) (tentative)_
+* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
 * Basic legal context of software licenses
 * Understanding the differences: free, libre, open-source, proprietary, FOSS, FLOSS
 * Common software licenses (MIT, BSD, Apache, ...)
