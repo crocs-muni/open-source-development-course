@@ -30,7 +30,7 @@ The lectures provided by the industrial experts are strongly recommended.
 
 The lecture overview is only tentative: The individual lectures may still be shifted to other weeks in accordance with lecturer availability.
 
-### Week 1 (3. 3.): Course intro
+### Week 1 (3. 3.): Course intro ([slides](01-intro.pdf))
 
 * Course structure and requirements
 * Red Hat Open Source Contest
