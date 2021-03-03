@@ -23,7 +23,7 @@ The lectures provided by the industrial experts are strongly recommended.
 
 * **IS course info:** https://is.muni.cz/course/fi/spring2021/PB173
 * **Lecture time:** Wednesdays, 10:00-11:40
-* **Lecture room:** The course will run online due to epidemiological situation
+* **Lecture room:** The lectures will take place on [Zoom](https://zoom.us/download), always in the following room: https://cesnet.zoom.us/j/92608827888?pwd=SnVka2Zld1dOTGpnd295SktCL1BWUT09#success
 * **Admission:** All the lectures are public, open to anyone
 
 ## Lecture Overview
