@@ -9,7 +9,7 @@ The information in this file reflect the spring semester of 2021. For informatio
 In order to pass the course, the student must:
 
 * **Contribute to an existing open-source project in scope of 50-60 hours.**
-The student chooses the open-source project for contribution themselves, but this selection must be approved by the teachers till 1st of March. Look for known active projects that you are not yet part of.
+The student chooses the open-source project for contribution themselves, but this selection must be approved by the teachers till 14th of March. Look for known active projects that you are not yet part of.
 * **Track time spent on the project.**
 The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management).
 * **Hand in three compulsory homework assignments.**
