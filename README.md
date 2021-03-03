@@ -16,8 +16,8 @@ The student has to have a detailed report on time spent on the course. The track
 These will cover git, CI/CD systems, pull requests, basic developer best practices and open-source licenses. An approximate description of tasks can be found in the file [assignments.md](assignments.md).
 * **Deliver three short presentation (10 minutes talks) about your work.**
 This will be the initial work planning, mid-term progress update and final presentation at the end.
-* **(optionally) Attend lectures on open source development**
-The lectures provided are not compulsory but are highly recommended.
+* **Attend lectures on open source development**
+The lectures provided by the industrial experts are strongly recommended.
 
 ## Technicalities
 
@@ -46,23 +46,7 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * Communication (and politics and psychology)
 * View of the maintainer
 
-### Week 3 (17. 3.): Project management and lifecycle
-
-* _Delivered by Vojtěch Trefný (Red Hat)_
-* Basic contribution workflow
-* Software dependencies
-* Security aspects of development
-
-### Week 4 (24. 3.): Continuous integration and deployment (CI/CD)
-
-* _Delivered by Vojtěch Trefný (Red Hat)_
-* CI/CD pipeline
-* Code style and documentation
-* Build tools
-* Tests and coverage
-* Packaging and publishing
-
-### Week 5 (31. 3.): Student status update 1
+### Week 3 (17. 3.): Student status update 1
 
 * Short talks of the current progress (max 10 minutes)
 * The presentation should include:
@@ -70,6 +54,22 @@ The lecture overview is only tentative: The individual lectures may still be shi
   * What do you plan to do? (What will the contribution probably be?) If there are specific issues/bug reports you plan to address, mention them.
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
+
+### Week 4 (24. 3.): Project management and lifecycle
+
+* _Delivered by Vojtěch Trefný (Red Hat)_
+* Basic contribution workflow
+* Software dependencies
+* Security aspects of development
+
+### Week 5 (31. 3.): Continuous integration and deployment (CI/CD)
+
+* _Delivered by Vojtěch Trefný (Red Hat)_
+* CI/CD pipeline
+* Code style and documentation
+* Build tools
+* Tests and coverage
+* Packaging and publishing
 
 ### Week 6 (7. 4.): Git workshop
 
@@ -82,23 +82,11 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * Solving local and public trouble
 * Git etiquette (good and bad practices)
 
-### Week 7 (14. 4.): Technical documentation writing
+### Week 7 (14. 4.): No lecture
 
-* _Delivered by Shweta Jalgaonkar (Red Hat), this talk will be in English (tentative)_
-* Documentation and technical writing in software projects
-* The process of technical writing
-* TechWriting specifics
+* Consultations possible
 
-### Week 8 (21. 4.): Open source licenses
-
-* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
-* Basic legal context of software licenses
-* Understanding the differences: free, libre, open-source, proprietary, FOSS, FLOSS
-* Common software licenses (MIT, BSD, Apache, ...)
-* GPL+LGPL, their benefits and their specifics
-* Licensing your code
-
-### Week 9 (28. 4.): Student status update 2
+### Week 8 (21. 4.): Student status update 2
 
 * 10 minutes talks of the current progress
 * Short reminder of what is the project about is good, though much shorter than in status update 1
@@ -106,9 +94,21 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 10 (5. 5.): No lecture
+### Week 9 (28. 4.): Technical documentation writing
 
-* Consultations possible
+* _Delivered by Shweta Jalgaonkar (Red Hat), this talk will be in English (tentative)_
+* Documentation and technical writing in software projects
+* The process of technical writing
+* TechWriting specifics
+
+### Week 10 (5. 5.): Open source licenses
+
+* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
+* Basic legal context of software licenses
+* Understanding the differences: free, libre, open-source, proprietary, FOSS, FLOSS
+* Common software licenses (MIT, BSD, Apache, ...)
+* GPL+LGPL, their benefits and their specifics
+* Licensing your code
 
 ### Week 11 (12. 5.): No lecture
 
