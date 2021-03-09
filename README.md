@@ -36,7 +36,7 @@ The lecture overview is only tentative: The individual lectures may still be shi
 * Red Hat Open Source Contest
 * Choosing a project (basic liveness checks)
 
-### Week 2 (10. 3.): Introduction to the open-source world
+### Week 2 (10. 3.): Introduction to the open-source world ([slides](02-opensource-intro.pdf))
 
 * _Delivered by Milan Brož (Red Hat)_
 * Proprietary vs. open
