@@ -59,8 +59,10 @@ The lecture overview is only tentative: The individual lectures may still be shi
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * Basic contribution workflow
+* Issues, forks, pull requests (illustrated on GitHub)
 * Software dependencies
-* Security aspects of development
+* Security aspects of software dependencies
+* Peeks into security of development and licencing
 
 ### Week 5 (31. 3.): Continuous integration and deployment (CI/CD)
 
@@ -96,7 +98,7 @@ The lecture overview is only tentative: The individual lectures may still be shi
 
 ### Week 9 (28. 4.): Technical documentation writing
 
-* _Delivered by Shweta Jalgaonkar (Red Hat), this talk will be in English (tentative)_
+* _Delivered by Shweta Jalgaonkar (Red Hat), this talk will be in English_
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
