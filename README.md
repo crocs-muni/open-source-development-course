@@ -48,9 +48,10 @@ The lecture overview is only tentative: The individual lectures may still be shi
 
 ### Week 3 (17. 3.): Student status update 1
 
-* Short talks of the current progress (max 10 minutes)
+* Short talks of the current progress (about 10 minutes)
+* You are required to have presentation slides to structure your talk (upload them in IS MU beforehand)
 * The presentation should include:
-  * Introduce the project you chose (the others should understand, what it is good for).
+  * Introduce the project you chose (the others should understand, what it is good for, how it works, ...).
   * What do you plan to do? (What will the contribution probably be?) If there are specific issues/bug reports you plan to address, mention them.
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
