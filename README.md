@@ -54,7 +54,7 @@ The lectures provided by the industrial experts are strongly recommended.
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 4 (24. 3.): Lifecycle of open source contribution, project management
+### Week 4 (24. 3.): Lifecycle of open source contribution, project management ([slides](04-lifecycle.pdf))
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * Basic contribution workflow
