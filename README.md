@@ -63,7 +63,7 @@ The lectures provided by the industrial experts are strongly recommended.
 * Security aspects of software dependencies
 * Peeks into security of development and licencing
 
-### Week 5 (31. 3.): Continuous integration and deployment (CI/CD)
+### Week 5 (31. 3.): Continuous integration and deployment (CI/CD) ([slides](05-ci-cd.pdf))
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * CI/CD pipeline
