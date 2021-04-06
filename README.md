@@ -72,10 +72,9 @@ The lectures provided by the industrial experts are strongly recommended.
 * Tests and coverage
 * Packaging and publishing
 
-### Week 6 (7. 4.): Git workshop
+### Week 6 (7. 4.): Mind your Git manners
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
-* **Workshop-style: Bring your notebook!**
 * Recap of git basics (workflow, commits, remotes, ...)
 * Git in multi-developer setup (branching, merging, conflicts, ...)
 * Power features in git (rebase, reorder, squash, stash, cherry-pick, ...)
