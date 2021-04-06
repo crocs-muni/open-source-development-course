@@ -97,7 +97,7 @@ The lectures provided by the industrial experts are strongly recommended.
 
 ### Week 9 (28. 4.): Technical documentation writing
 
-* _Delivered by Shweta Jalgaonkar (Red Hat), this talk will be in English_
+* _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Matej Timar (Red Hat), this talk will be in English_
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
