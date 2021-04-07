@@ -72,7 +72,7 @@ The lectures provided by the industrial experts are strongly recommended.
 * Tests and coverage
 * Packaging and publishing
 
-### Week 6 (7. 4.): Mind your Git manners
+### Week 6 (7. 4.): Mind your Git manners ([slides](06-git.pdf))
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * Recap of git basics (workflow, commits, remotes, ...)
