@@ -101,7 +101,7 @@ The lectures provided by the industrial experts are strongly recommended.
 * The process of technical writing
 * TechWriting specifics
 
-### Week 10 (5. 5.): Open source licenses
+### Week 10 (5. 5.): Open source licenses ([slides](08-licenses.pdf))
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
 * Basic legal context of software licenses
