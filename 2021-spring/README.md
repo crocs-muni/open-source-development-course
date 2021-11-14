@@ -2,14 +2,14 @@
 
 The main goal of the course is to help and encourage university students to join the development of real-world open-source software (in any programming language). The course consists of 5–6 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development.
 
-The information in this file reflects tentative information for the spring semester of 2022. For information on older semesters, see [spring 2021](2020-spring/README.md) and [spring 2020](2020-spring/README.md).
+The information in this file reflect the spring semester of 2021. For information on older semesters, see [spring 2020](2020-spring/README.md) and [autumn 2019](2019-autumn/README.md).
 
 ## Course requirements
 
 In order to pass the course, the student must:
 
 * **Contribute to an existing open-source project in scope of 50-60 hours.**
-The student chooses the open-source project for contribution themselves, but this selection must be approved by the teachers till TBD. Look for known active projects that you are not yet part of.
+The student chooses the open-source project for contribution themselves, but this selection must be approved by the teachers till 14th of March. Look for known active projects that you are not yet part of.
 * **Track time spent on the project.**
 The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management).
 * **Hand in three compulsory homework assignments.**
@@ -21,24 +21,20 @@ The lectures provided by the industrial experts are strongly recommended.
 
 ## Technicalities
 
-* **IS course info:** https://is.muni.cz/course/fi/spring2022/PB173
-* **Lecture time:** TBD
-* **Lecture room:** TBD
+* **IS course info:** https://is.muni.cz/course/fi/spring2021/PB173
+* **Lecture time:** Wednesdays, 10:00-11:40
+* **Lecture room:** The lectures will take place on [Zoom](https://zoom.us/download), always in the following room: https://cesnet.zoom.us/j/92608827888?pwd=SnVka2Zld1dOTGpnd295SktCL1BWUT09#success
 * **Admission:** All the lectures are public, open to anyone
-
-Even though the course information lists C and C++ as pre-requisites, the language used in the open-source project contribution is up to the student.
 
 ## Lecture Overview
 
-The lecture overview is only **tentative**: The individual lectures may still be shifted to other weeks in accordance with lecturer availability.
-
-### Week 1 (3. 3.): Course intro
+### Week 1 (3. 3.): Course intro ([slides](01-intro.pdf))
 
 * Course structure and requirements
 * Red Hat Open Source Contest
 * Choosing a project (basic liveness checks)
 
-### Week 2 (10. 3.): Introduction to the open-source world
+### Week 2 (10. 3.): Introduction to the open-source world ([slides](02-opensource-intro.pdf))
 
 * _Delivered by Milan Brož (Red Hat)_
 * Proprietary vs. open
@@ -58,7 +54,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 4 (24. 3.): Lifecycle of open source contribution, project management
+### Week 4 (24. 3.): Lifecycle of open source contribution, project management ([slides](04-lifecycle.pdf))
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * Basic contribution workflow
@@ -67,7 +63,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Security aspects of software dependencies
 * Peeks into security of development and licencing
 
-### Week 5 (31. 3.): Continuous integration and deployment (CI/CD)
+### Week 5 (31. 3.): Continuous integration and deployment (CI/CD) ([slides](05-ci-cd.pdf))
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * CI/CD pipeline
@@ -76,7 +72,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Tests and coverage
 * Packaging and publishing
 
-### Week 6 (7. 4.): Mind your Git manners
+### Week 6 (7. 4.): Mind your Git manners ([slides](06-git.pdf))
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * Recap of git basics (workflow, commits, remotes, ...)
@@ -98,14 +94,14 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 9 (28. 4.): Technical documentation writing
+### Week 9 (28. 4.): Technical documentation writing ([slides](07-techwriting.pdf))
 
 * _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Matej Timar (Red Hat), this talk will be in English_
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
 
-### Week 10 (5. 5.): Open source licenses
+### Week 10 (5. 5.): Open source licenses ([slides](08-licenses.pdf))
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
 * Basic legal context of software licenses

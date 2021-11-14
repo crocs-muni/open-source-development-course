@@ -1,8 +1,8 @@
 # Homework assignments
 
-The course has one homework assignment.
+The course has one homework.
 
-## 1: Open-source licenses (deadline TBD)
+## 1: Open-source licenses (deadline 19.05.2021)
 
 Prove a basic knowledge of licencing. Submit the short report in a text file `hw01.txt` to the homework vault in the information system.
 
