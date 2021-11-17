@@ -9,7 +9,7 @@ Do you want to:
 
 Then this seminar group of the PB173 course is for you!
 
-The main goal of the course is to help and encourage university students to join the development of real-world open-source software (in any programming language). The course consists of 5–6 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development.
+The main goal of the course is to help and encourage university students to join the development of real-world open-source software (in any programming language). The course consists of 5–6 hosted lectures by senior developers, three small homework assignments and quite a bit of open-source development.
 
 The information in this file reflects tentative information for the spring semester of 2022. For information on older semesters, see [spring 2021](2020-spring/README.md) and [spring 2020](2020-spring/README.md).
 
@@ -17,15 +17,15 @@ The information in this file reflects tentative information for the spring semes
 
 In order to pass the course, the student must:
 
-* **Contribute to an existing open-source project in scope of 50-60 hours.**
-The student chooses the open-source project for contribution themselves, but this selection must be approved by the teachers till TBD. Look for known active projects that you are not yet part of.
-* **Track time spent on the project.**
-The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management).
-* **Hand in three compulsory homework assignments.**
+* **Contribute to an existing open-source project of your choice.**  
+Having your pull request accepted during the semester is not required to pass the course (as we cannot guarantee rensponsive maintainers). Note that the project selction must be approved by the teachers till the end of the second week of the semester. Look for known active projects that you are not yet part of.
+* **Track time spent on the project.**  
+The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management). You are expected to spend about 50 hours on the project (all time including studying docmentation, analyzing code, coding as well as communicating with maintainers).
+* **Hand in three compulsory homework assignments.**  
 These will cover git, CI/CD systems, pull requests, basic developer best practices and open-source licenses. An approximate description of tasks can be found in the file [assignments.md](assignments.md).
-* **Deliver three short presentation (10 minutes talks) about your work.**
+* **Deliver three short presentation (10 minutes talks) about your work.**  
 This will be the initial work planning, mid-term progress update and final presentation at the end.
-* **Attend lectures on open source development**
+* **Attend lectures on open source development**  
 The lectures provided by the industrial experts are strongly recommended.
 
 ## Technicalities
