@@ -18,7 +18,7 @@ The information in this file reflects tentative information for the spring semes
 In order to pass the course, the student must:
 
 * **Contribute to an existing open-source project of your choice.**  
-Having your pull request accepted during the semester is not required to pass the course (as we cannot guarantee rensponsive maintainers). Note that the project selction must be approved by the teachers till the end of the second week of the semester. Look for known active projects that you are not yet part of.
+Having your pull request accepted during the semester is not required to pass the course (as we cannot guarantee responsive maintainers). Note that the project selection must be approved by the teachers till the end of the second week of the semester. Look for known active projects that you are not yet part of.
 * **Track time spent on the project.**  
 The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management). You are expected to spend about 50 hours on the project (all time including studying documentation, analyzing code, coding as well as communicating with maintainers).
 * **Hand in three compulsory homework assignments.**  
