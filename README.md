@@ -1,5 +1,14 @@
 # PB173/oss: Open Source Development Course
 
+Do you want to:
+
+ - contribute to an open-source project of your chosing,
+ - have your work in an upstream project,
+ - help a project/tool you use,
+ - and earn a few credits while doing so?
+
+Then this seminar group of the PB173 course is for you!
+
 The main goal of the course is to help and encourage university students to join the development of real-world open-source software (in any programming language). The course consists of 5–6 hosted lectures by senior developers, two small homework assignments and quite a bit of open-source development.
 
 The information in this file reflects tentative information for the spring semester of 2022. For information on older semesters, see [spring 2021](2020-spring/README.md) and [spring 2020](2020-spring/README.md).
@@ -32,13 +41,13 @@ Even though the course information lists C and C++ as pre-requisites, the langua
 
 The lecture overview is only **tentative**: The individual lectures may still be shifted to other weeks in accordance with lecturer availability.
 
-### Week 1 (3. 3.): Course intro
+### Week 1 (14-18.02.): Course intro
 
 * Course structure and requirements
 * Red Hat Open Source Contest
 * Choosing a project (basic liveness checks)
 
-### Week 2 (10. 3.): Introduction to the open-source world
+### Week 2 (21-25.02.): Introduction to the open-source world
 
 * _Delivered by Milan Brož (Red Hat)_
 * Proprietary vs. open
@@ -48,7 +57,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Communication (and politics and psychology)
 * View of the maintainer
 
-### Week 3 (17. 3.): Student status update 1
+### Week 3 (28.02.-04.03.): Student status update 1
 
 * Short talks of the current progress (about 10 minutes)
 * You are required to have presentation slides to structure your talk (upload them in IS MU beforehand)
@@ -58,7 +67,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 4 (24. 3.): Lifecycle of open source contribution, project management
+### Week 4 (07-11.03.): Lifecycle of open source contribution, project management
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * Basic contribution workflow
@@ -67,7 +76,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Security aspects of software dependencies
 * Peeks into security of development and licencing
 
-### Week 5 (31. 3.): Continuous integration and deployment (CI/CD)
+### Week 5 (14-18.3.): Continuous integration and deployment (CI/CD)
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * CI/CD pipeline
@@ -76,7 +85,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Tests and coverage
 * Packaging and publishing
 
-### Week 6 (7. 4.): Mind your Git manners
+### Week 6 (21-25.03.): Mind your Git manners
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * Recap of git basics (workflow, commits, remotes, ...)
@@ -86,11 +95,11 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Solving local and public trouble
 * Git etiquette (good and bad practices)
 
-### Week 7 (14. 4.): No lecture
+### Week 7 (28.03.-01.04.): No lecture
 
 * Consultations possible
 
-### Week 8 (21. 4.): Student status update 2
+### Week 8 (04-08.04.): Student status update 2
 
 * 10 minutes talks of the current progress
 * Short reminder of what is the project about is good, though much shorter than in status update 1
@@ -98,14 +107,14 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 9 (28. 4.): Technical documentation writing
+### Week 9 (11-15.04.): Technical documentation writing
 
 * _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Matej Timar (Red Hat), this talk will be in English_
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
 
-### Week 10 (5. 5.): Open source licenses
+### Week 10 (18-22.04.): Open source licenses
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
 * Basic legal context of software licenses
@@ -114,15 +123,15 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * GPL+LGPL, their benefits and their specifics
 * Licensing your code
 
-### Week 11 (12. 5.): No lecture
+### Week 11 (25-29.04.): No lecture
 
 * Consultations possible
 
-### Week 12 (19. 5.): No lecture
+### Week 12 (02-06.05.): No lecture
 
 * Consultations possible
 
-### Week 13 (26. 5.): Final presentations
+### Week 13 (09-13.05.): Final presentations
 
 * Deadline for finishing the open source contributions (exceptions allowed in justified cases)
 * Final project presentations (10 minutes, slides required)
