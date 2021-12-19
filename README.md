@@ -45,9 +45,15 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 * Course structure and requirements
 * Red Hat Open Source Contest
-* Choosing a project (basic liveness checks)
+* Basic project attributes (liveness check)
+* Tips for looking for a good OSS project
 
 ### Week 2 (23. 2.): Introduction to the open-source world
+
+* Searching for suitable projects (with consultations)
+* Students have to choose a suitable project by the end of the week (otherwise they have to un-enroll the course).
+
+## Week 3 (2. 3.): Introduction to the open-source world
 
 * _Delivered by Milan Brož (Red Hat)_ (tentative)
 * Proprietary vs. open
@@ -57,7 +63,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Communication (and politics and psychology)
 * View of the maintainer
 
-### Week 3 (2. 3.): Student status update 1
+### Week 4 (9. 3.): Student status update 1
 
 * Short talks of the current progress (about 10 minutes)
 * You are required to have presentation slides to structure your talk (upload them in IS MU beforehand)
@@ -67,7 +73,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 4 (9. 3.): Lifecycle of open source contribution, project management
+### Week 5 (16. 3.): Lifecycle of open source contribution, project management
 
 * _Delivered by Vojtěch Trefný (Red Hat)_ (tentative)
 * Basic contribution workflow
@@ -76,7 +82,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Security aspects of software dependencies
 * Peeks into security of development and licensing
 
-### Week 5 (16. 3.): Continuous integration and deployment (CI/CD)
+### Week 6 (23. 3.): Continuous integration and deployment (CI/CD)
 
 * _Delivered by Vojtěch Trefný (Red Hat)_ (tentative)
 * CI/CD pipeline
@@ -85,7 +91,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Tests and coverage
 * Packaging and publishing
 
-### Week 6 (23. 3.): Mind your Git manners
+### Week 7 (30. 3.): Mind your Git manners
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_ (tentative)
 * Recap of git basics (workflow, commits, remotes, ...)
@@ -95,11 +101,11 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Solving local and public trouble
 * Git etiquette (good and bad practices)
 
-### Week 7 (30. 3.): No lecture
+### Week 8 (6. 4.): No lecture
 
 * Consultations possible
 
-### Week 8 (6. 4.): Student status update 2
+### Week 9 (13. 4.): Student status update 2
 
 * 10 minutes talks of the current progress
 * Short reminder of what is the project about is good, though much shorter than in status update 1
@@ -107,14 +113,14 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 9 (13. 4.): Technical documentation writing
+### Week 10 (20. 4.): Technical documentation writing
 
 * _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Matej Timar (Red Hat), this talk will be in English_ (tentative)
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
 
-### Week 10 (20. 4.): Open source licenses
+### Week 11 (27. 4.): Open source licenses
 
 * _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_ (tentative)
 * Basic legal context of software licenses
@@ -122,10 +128,6 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Common software licenses (MIT, BSD, Apache, ...)
 * GPL+LGPL, their benefits and their specifics
 * Licensing your code
-
-### Week 11 (27. 4.): No lecture
-
-* Consultations possible
 
 ### Week 12 (4. 5.): No lecture
 
@@ -145,6 +147,6 @@ The lecture overview is only **tentative**: The individual lectures may still be
   * The detailed time sheet of your contribution
   * A list of your pull requests (a simple text file with a couple of links is sufficient)
 
-### Week 13 (18. 5.): Final presentations (backup date)
+### Week 14 (18. 5.): Final presentations (backup date)
 
 * Only used if necessary.
