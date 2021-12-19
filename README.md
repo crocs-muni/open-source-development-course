@@ -2,10 +2,10 @@
 
 Do you want to:
 
- - contribute to an open-source project of your chosing,
- - have your work in an upstream project,
- - help a project/tool you use,
- - and earn a few credits while doing so?
+* contribute to an open-source project of your choosing,
+* have your work in an upstream project,
+* help a project/tool you use,
+* and earn a few credits while doing so?
 
 Then this seminar group of the PB173 course is for you!
 
@@ -20,7 +20,7 @@ In order to pass the course, the student must:
 * **Contribute to an existing open-source project of your choice.**  
 Having your pull request accepted during the semester is not required to pass the course (as we cannot guarantee responsive maintainers). Note that the project selection must be approved by the teachers till the end of the second week of the semester. Look for known active projects that you are not yet part of.
 * **Track time spent on the project.**  
-The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management). You are expected to spend about 50 hours on the project (all time including studying documentation, analyzing code, coding as well as communicating with maintainers).
+The student has to have a detailed report on time spent on the course. The tracking has to be automatic (e.g. using [Toggl Track](https://toggl.com/) or similar). The tracking must be task-based (i.e. per-day report is not sufficient). Each reported period must have a start-time, end-time, short work description and a category (analysis/implementation/management). You are expected to spend about 50 hours on the project (all time including studying documentation, analyzing code, coding as well as communicating with maintainers).
 * **Hand in three compulsory homework assignments.**  
 These will cover git, CI/CD systems, pull requests, basic developer best practices and open-source licenses. An approximate description of tasks can be found in the file [assignments.md](assignments.md).
 * **Deliver three short presentation (10 minutes talks) about your work.**  
@@ -31,8 +31,8 @@ The lectures provided by the industrial experts are strongly recommended.
 ## Technicalities
 
 * **IS course info:** https://is.muni.cz/course/fi/spring2022/PB173
-* **Lecture time:** TBD
-* **Lecture room:** TBD
+* **Lecture time:** Wednesdays, 10:00-11:40
+* **Lecture room:** FI MU S505 Red Hat lab (note that the room is only available during lecture time)
 * **Admission:** All the lectures are public, open to anyone
 
 Even though the course information lists C and C++ as pre-requisites, the language used in the open-source project contribution is up to the student.
@@ -41,15 +41,15 @@ Even though the course information lists C and C++ as pre-requisites, the langua
 
 The lecture overview is only **tentative**: The individual lectures may still be shifted to other weeks in accordance with lecturer availability.
 
-### Week 1 (14-18.02.): Course intro
+### Week 1 (16.2.): Course intro
 
 * Course structure and requirements
 * Red Hat Open Source Contest
 * Choosing a project (basic liveness checks)
 
-### Week 2 (21-25.02.): Introduction to the open-source world
+### Week 2 (23. 2.): Introduction to the open-source world
 
-* _Delivered by Milan Brož (Red Hat)_
+* _Delivered by Milan Brož (Red Hat)_ (tentative)
 * Proprietary vs. open
 * Open source project management and infrastructure
 * Open source licensing
@@ -57,7 +57,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Communication (and politics and psychology)
 * View of the maintainer
 
-### Week 3 (28.02.-04.03.): Student status update 1
+### Week 3 (2. 3.): Student status update 1
 
 * Short talks of the current progress (about 10 minutes)
 * You are required to have presentation slides to structure your talk (upload them in IS MU beforehand)
@@ -67,27 +67,27 @@ The lecture overview is only **tentative**: The individual lectures may still be
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 4 (07-11.03.): Lifecycle of open source contribution, project management
+### Week 4 (9. 3.): Lifecycle of open source contribution, project management
 
-* _Delivered by Vojtěch Trefný (Red Hat)_
+* _Delivered by Vojtěch Trefný (Red Hat)_ (tentative)
 * Basic contribution workflow
 * Issues, forks, pull requests (illustrated on GitHub)
 * Software dependencies
 * Security aspects of software dependencies
-* Peeks into security of development and licencing
+* Peeks into security of development and licensing
 
-### Week 5 (14-18.3.): Continuous integration and deployment (CI/CD)
+### Week 5 (16. 3.): Continuous integration and deployment (CI/CD)
 
-* _Delivered by Vojtěch Trefný (Red Hat)_
+* _Delivered by Vojtěch Trefný (Red Hat)_ (tentative)
 * CI/CD pipeline
 * Code style and documentation
 * Build tools
 * Tests and coverage
 * Packaging and publishing
 
-### Week 6 (21-25.03.): Mind your Git manners
+### Week 6 (23. 3.): Mind your Git manners
 
-* _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
+* _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_ (tentative)
 * Recap of git basics (workflow, commits, remotes, ...)
 * Git in multi-developer setup (branching, merging, conflicts, ...)
 * Power features in git (rebase, reorder, squash, stash, cherry-pick, ...)
@@ -95,11 +95,11 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Solving local and public trouble
 * Git etiquette (good and bad practices)
 
-### Week 7 (28.03.-01.04.): No lecture
+### Week 7 (30. 3.): No lecture
 
 * Consultations possible
 
-### Week 8 (04-08.04.): Student status update 2
+### Week 8 (6. 4.): Student status update 2
 
 * 10 minutes talks of the current progress
 * Short reminder of what is the project about is good, though much shorter than in status update 1
@@ -107,31 +107,31 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 9 (11-15.04.): Technical documentation writing
+### Week 9 (13. 4.): Technical documentation writing
 
-* _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Matej Timar (Red Hat), this talk will be in English_
+* _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Matej Timar (Red Hat), this talk will be in English_ (tentative)
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
 
-### Week 10 (18-22.04.): Open source licenses
+### Week 10 (20. 4.): Open source licenses
 
-* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
+* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_ (tentative)
 * Basic legal context of software licenses
 * Understanding the differences: free, libre, open-source, proprietary, FOSS, FLOSS
 * Common software licenses (MIT, BSD, Apache, ...)
 * GPL+LGPL, their benefits and their specifics
 * Licensing your code
 
-### Week 11 (25-29.04.): No lecture
+### Week 11 (27. 4.): No lecture
 
 * Consultations possible
 
-### Week 12 (02-06.05.): No lecture
+### Week 12 (4. 5.): No lecture
 
 * Consultations possible
 
-### Week 13 (09-13.05.): Final presentations
+### Week 13 (11. 5.): Final presentations
 
 * Deadline for finishing the open source contributions (exceptions allowed in justified cases)
 * Final project presentations (10 minutes, slides required)
@@ -142,5 +142,9 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Really, we mean the previous bullet point. What would you not know if you did not participate in the course? Both positive and negative (and neutral) learning are meant to be shared.
 * Before the lecture (till Wednesday night), please submit these files to the IS vault
   * Slides of your final presentation (PDF)
-  * The detailed timesheet of your contribution
+  * The detailed time sheet of your contribution
   * A list of your pull requests (a simple text file with a couple of links is sufficient)
+
+### Week 13 (18. 5.): Final presentations (backup date)
+
+* Only used if necessary.
