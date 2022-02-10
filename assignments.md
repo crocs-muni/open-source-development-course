@@ -4,7 +4,22 @@ The course has three compulsory homework assignments. **The descrptions below ar
 
 The first two assignments (focusing on git) can be made optional for you if you show sufficient skills in the area, for example by having completed [PB176 Basics of Quality and Managment of Source Code](https://is.muni.cz/auth/predmet/fi/jaro2022/PB176?lang=en) (this needs to be explicitly approved by the teachers).
 
-## 1: Multi-developer scenario (deadline TBA)
+
+## 1: Single-developer scenario (deadline 06.04.)
+
+Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer best practices.
+
+* Setup a GitHub repository under your personal account, called `ossdev-02-${UCO}`, e.g., `ossdev-02-325219`
+* Commit a small piece of code with simple functionality in `{C, C++, Java, Kotlin, Python, PHP}`. Assignment: take input two numbers `a, b`, print all primes in the interval `[a, b]`. Use algorithm of your choice (e.g., trial division, sieve). It us just a demo, not an algorithmic competition.
+* Properly cover the implemented feature by tests and documentation.
+* Setup a build system of your choice (makefile, cmake, gradle, ...) compiling the project (if relevant) and running the tests.
+* Setup a CI/CD system (e.g. Travis, which is recommended on the GitHub).
+* Setup at least one extra step as a part of the CI process (e.g. style check).
+* Setup a `README.md` file for the repository and include a build or test status badge for the CI/CD results.
+* Submit `repo.txt` to the IS file vault with the single line, the URL for your GitHub repository (HTTPS web view).
+* Submit detailed timesheet to the IS file vault named `time.txt`, which will have separate entries for a) coding, b) implementing tests c) writing docs d) setting up project / build system / style check. 
+
+## 2: Multi-developer scenario (deadline 30.04.)
 
 Prove you can use git to interact with existing reositories, resolve conflicts and adjust git history.
 Create a text file `ossdev-hw-01.txt` and mark mentioned info to the file as noted below in the assignment. 
@@ -50,20 +65,7 @@ Imagine something happened, 8 months passed, repository changed the maintainer a
 - Add a comment to the PR saying "Done" to the step2 PR.
 - Add the file with commit IDs to the PR2, as a new comment, plaintext, no attachments.
 
-## 2: Single-developer scenario (deadline TBA)
-
-Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer best practices.
-
-* Setup a GitHub repository under your personal account, called `ossdev-02-${UCO}`, e.g., `ossdev-02-325219`
-* Commit a small piece of code with simple functionality in `{C, C++, Java, Kotlin, Python, PHP}`. Assignment: take input two numbers `a, b`, print all primes in the interval `[a, b]`. Use algorithm of your choice (e.g., trial division, sieve). It us just a demo, not an algorithmic competition.
-* Properly cover the implemented feature by tests and documentation.
-* Setup a build system of your choice (makefile, cmake, gradle, ...) compiling the project (if relevant) and running the tests.
-* Setup a CI/CD system (e.g. Travis, which is recommended on the GitHub).
-* Setup at least one extra step as a part of the CI process (e.g. style check).
-* Submit `repo.txt` to the IS file vault with the single line, the URL for your GitHub repository (HTTPS web view).
-* Submit detailed timesheet to the IS file vault named `time.txt`, which will have separate entries for a) coding, b) implementing tests c) writing docs d) setting up project / build system / style check. 
-  
-## 3: Open-source licences (deadline TBA)
+## 3: Open-source licences (deadline 14.05.)
 
 Prove a basic knowledge of licencing. Submit the short report in a text file `hw01.txt` to the homework vault in the information system.
 
