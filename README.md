@@ -41,7 +41,7 @@ Even though the course information lists C and C++ as pre-requisites, the langua
 
 The lecture overview is only **tentative**: The individual lectures may still be shifted to other weeks in accordance with lecturer availability.
 
-### Week 1 (16.2.): Course intro
+### Week 1 (16.2.): Course intro ([slides](01-intro.pdf))
 
 * Course structure and requirements
 * Red Hat Open Source Contest
