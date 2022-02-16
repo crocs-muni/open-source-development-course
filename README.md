@@ -48,12 +48,12 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Basic project attributes (liveness check)
 * Tips for looking for a good OSS project
 
-### Week 2 (23. 2.): Introduction to the open-source world
+### Week 2 (23. 2.): Project selection
 
 * Searching for suitable projects (with consultations)
 * Students have to choose a suitable project by the end of the week (otherwise they have to un-enroll the course).
 
-## Week 3 (2. 3.): Introduction to the open-source world
+### Week 3 (2. 3.): Introduction to the open-source world
 
 * _Delivered by Milan Brož (Red Hat)_ (tentative)
 * Proprietary vs. open
