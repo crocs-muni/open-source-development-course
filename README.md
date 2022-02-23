@@ -48,7 +48,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Basic project attributes (liveness check)
 * Tips for looking for a good OSS project
 
-### Week 2 (23. 2.): Project selection
+### Week 2 (23. 2.): Project selection ([slides](02-project-selection.pdf))
 
 * Searching for suitable projects (with consultations)
 * Students have to choose a suitable project by the end of the week (otherwise they have to un-enroll the course).
