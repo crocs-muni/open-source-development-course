@@ -73,7 +73,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
   * State what have you already done: Ran and used the project? Successfully build the project? Dived into documentation? Developeed something? ...
   * What system do you use to track time? How much time have you already spent on the project?
 
-### Week 5 (16. 3.): Lifecycle of open source contribution, project management
+### Week 5 (16. 3.): Lifecycle of open source contribution, software dependencies
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * Basic contribution workflow
