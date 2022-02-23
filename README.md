@@ -11,7 +11,7 @@ Then this seminar group of the PB173 course is for you!
 
 The main goal of the course is to help and encourage university students to join the development of real-world open-source software (in any programming language). The course consists of 5–6 hosted lectures by senior developers, three small homework assignments and quite a bit of open-source development.
 
-The information in this file reflects tentative information for the spring semester of 2022. For information on older semesters, see [spring 2021](2020-spring/README.md) and [spring 2020](2020-spring/README.md).
+The information in this file reflects tentative information for the spring semester of 2022. For information on older semesters, see [spring 2021](2021-spring/README.md) and [spring 2020](2020-spring/README.md).
 
 ## Course requirements
 
