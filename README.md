@@ -55,7 +55,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 ### Week 3 (2. 3.): Introduction to the open-source world
 
-* _Delivered by Milan Brož (Red Hat)_ (tentative)
+* _Delivered by Milan Brož (independent engineer)_
 * Proprietary vs. open
 * Open source project management and infrastructure
 * Open source licensing
@@ -75,7 +75,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 ### Week 5 (16. 3.): Lifecycle of open source contribution, project management
 
-* _Delivered by Vojtěch Trefný (Red Hat)_ (tentative)
+* _Delivered by Vojtěch Trefný (Red Hat)_
 * Basic contribution workflow
 * Issues, forks, pull requests (illustrated on GitHub)
 * Software dependencies
@@ -84,7 +84,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 ### Week 6 (23. 3.): Continuous integration and deployment (CI/CD)
 
-* _Delivered by Vojtěch Trefný (Red Hat)_ (tentative)
+* _Delivered by Vojtěch Trefný (Red Hat)_
 * CI/CD pipeline
 * Code style and documentation
 * Build tools
@@ -93,7 +93,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 ### Week 7 (30. 3.): Mind your Git manners
 
-* _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_ (tentative)
+* _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * Recap of git basics (workflow, commits, remotes, ...)
 * Git in multi-developer setup (branching, merging, conflicts, ...)
 * Power features in git (rebase, reorder, squash, stash, cherry-pick, ...)
@@ -122,7 +122,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 ### Week 11 (27. 4.): Open source licenses
 
-* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_ (tentative)
+* _Delivered by Milan Zamazal (Red Hat) and Pavel Loutocký (Institute of Law and Technology, MU)_
 * Basic legal context of software licenses
 * Understanding the differences: free, libre, open-source, proprietary, FOSS, FLOSS
 * Common software licenses (MIT, BSD, Apache, ...)
