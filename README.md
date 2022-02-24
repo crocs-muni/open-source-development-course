@@ -115,7 +115,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 ### Week 10 (20. 4.): Technical documentation writing
 
-* _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Matej Timar (Red Hat), this talk will be in English_ (tentative)
+* _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Sarka Jana Janderkova (Red Hat), this talk will be in English_
 * Documentation and technical writing in software projects
 * The process of technical writing
 * TechWriting specifics
