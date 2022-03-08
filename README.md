@@ -94,12 +94,10 @@ The lecture overview is only **tentative**: The individual lectures may still be
 ### Week 7 (30. 3.): Mind your Git manners
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
-* Recap of git basics (workflow, commits, remotes, ...)
-* Git in multi-developer setup (branching, merging, conflicts, ...)
-* Power features in git (rebase, reorder, squash, stash, cherry-pick, ...)
-* Pull requests and their adjustments
-* Solving local and public trouble
-* Git etiquette (good and bad practices)
+* Commits and commit messages
+* Branches, forks, rebases, merges
+* Pull requests and reviews
+* Q/A on git
 
 ### Week 8 (6. 4.): No lecture
 
