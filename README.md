@@ -53,7 +53,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Searching for suitable projects (with consultations)
 * Students have to choose a suitable project by the end of the week (otherwise they have to un-enroll the course).
 
-### Week 3 (2. 3.): Introduction to the open-source world
+### Week 3 (2. 3.): Introduction to the open-source world ([slides](03-opensource-intro.pdf))
 
 * _Delivered by Milan Brož (independent engineer)_
 * Proprietary vs. open
