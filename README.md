@@ -95,9 +95,10 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * Commits and commit messages
-* Branches, forks, rebases, merges
-* Pull requests and reviews
-* Q/A on git
+* Forking and branching
+* Push
+* PR/MR submitting and review
+* Quiz, Q/A
 
 ### Week 8 (6. 4.): No lecture
 
