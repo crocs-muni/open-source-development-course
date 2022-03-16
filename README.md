@@ -32,7 +32,7 @@ The lectures provided by the industrial experts are strongly recommended.
 
 * **IS course info:** https://is.muni.cz/course/fi/spring2022/PB173
 * **Lecture time:** Wednesdays, 10:00-11:40
-* **Lecture room:** FI MU S505 Red Hat lab (note that the room is only available during lecture time)
+* **Lecture room:** FI MU S505 Red Hat lab at Faculty of Informatics, Masaryk University ([S505](https://is.muni.cz/kontakty/mistnost?lang=en;id=12880), note that the room is only available during lecture time)
 * **Admission:** All the lectures are public, open to anyone
 
 Even though the course information lists C and C++ as pre-requisites, the language used in the open-source project contribution is up to the student.
