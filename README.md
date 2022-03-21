@@ -82,14 +82,9 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Security aspects of software dependencies
 * Peeks into security of development and licensing
 
-### Week 6 (23. 3.): Continuous integration and deployment (CI/CD)
+### Week 6 (23. 3.): No lecture, CI/CD talk moved to week 8
 
-* _Delivered by Vojtěch Trefný (Red Hat)_
-* CI/CD pipeline
-* Code style and documentation
-* Build tools
-* Tests and coverage
-* Packaging and publishing
+* Consultations possible
 
 ### Week 7 (30. 3.): Mind your Git manners
 
@@ -100,9 +95,14 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * PR/MR submitting and review
 * Quiz, Q/A
 
-### Week 8 (6. 4.): No lecture
+### Week 8 (6. 4.): Continuous integration and deployment (CI/CD), moved from week 6
 
-* Consultations possible
+* _Delivered by Vojtěch Trefný (Red Hat)_
+* CI/CD pipeline
+* Code style and documentation
+* Build tools
+* Tests and coverage
+* Packaging and publishing
 
 ### Week 9 (13. 4.): Student status update 2
 
