@@ -86,7 +86,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 
 * Consultations possible
 
-### Week 7 (30. 3.): Mind your Git manners
+### Week 7 (30. 3.): Mind your Git manners ([slides](07-git-etiquette.pdf))
 
 * _Delivered by Irina Gulina (Red Hat) and Tomáš Tomeček (Red Hat), this talk will be in English_
 * Commits and commit messages
