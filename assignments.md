@@ -5,7 +5,7 @@ The course has three compulsory homework assignments. **The descrptions below ar
 The first two assignments (focusing on git) can be made optional for you if you show sufficient skills in the area, for example by having completed [PB176 Basics of Quality and Managment of Source Code](https://is.muni.cz/auth/predmet/fi/jaro2022/PB176?lang=en) (this needs to be explicitly approved by the teachers).
 
 
-## 1: Single-developer scenario (deadline 6. 4.)
+## 1: Single-developer scenario (deadline 20. 4.)
 
 Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer best practices.
 
