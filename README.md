@@ -95,7 +95,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * PR/MR submitting and review
 * Quiz, Q/A
 
-### Week 8 (6. 4.): Continuous integration and deployment (CI/CD), moved from week 6
+### Week 8 (6. 4.): Continuous integration and deployment (CI/CD), moved from week 6 ([slides](06-ci-cd.pdf))
 
 * _Delivered by Vojtěch Trefný (Red Hat)_
 * CI/CD pipeline
