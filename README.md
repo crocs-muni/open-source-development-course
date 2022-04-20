@@ -112,7 +112,7 @@ The lecture overview is only **tentative**: The individual lectures may still be
 * Slides are required (to keep the presentation clear and flowing)
 * Include slide with your time sheet spent on the project, high granularity (dates, work items, amounts). Also add summary stats on time spent on a) study b) coding c) communication/management
 
-### Week 10 (20. 4.): Technical documentation writing
+### Week 10 (20. 4.): Technical documentation writing ([slides](10-techwriting.pdf))
 
 * _Delivered by Shweta Jalgaonkar (Red Hat), Vendula Ferschmannova (Red Hat) and Sarka Jana Janderkova (Red Hat), this talk will be in English_
 * Documentation and technical writing in software projects
