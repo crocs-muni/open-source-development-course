@@ -1,6 +1,6 @@
 # Homework assignments
 
-The course has three compulsory homework assignments. **The descrptions below are only tentative.**
+The course has three compulsory homework assignments.
 
 The first two assignments (focusing on git) can be made optional for you if you show sufficient skills in the area, for example by having completed [PB176 Basics of Quality and Managment of Source Code](https://is.muni.cz/auth/predmet/fi/jaro2022/PB176?lang=en) (this needs to be explicitly approved by the teachers).
 
@@ -13,13 +13,17 @@ Prove you have elementary knowledge of git, GitHub, CI/CD systems and developer 
 * Commit a small piece of code with simple functionality in `{C, C++, Java, Kotlin, Python, PHP}`. Assignment: take input two numbers `a, b`, print all primes in the interval `[a, b]`. Use algorithm of your choice (e.g., trial division, sieve). It us just a demo, not an algorithmic competition.
 * Properly cover the implemented feature by tests and documentation.
 * Setup a build system of your choice (makefile, cmake, gradle, ...) compiling the project (if relevant) and running the tests.
-* Setup a CI/CD system (e.g. Travis, which is recommended on the GitHub).
+* Setup a CI/CD system (e.g. GitHub actions, which is recommended on GitHub).
 * Setup at least one extra step as a part of the CI process (e.g. style check).
 * Setup a `README.md` file for the repository and include a build or test status badge for the CI/CD results.
 * Submit `repo.txt` to the IS file vault with the single line, the URL for your GitHub repository (HTTPS web view).
 * Submit detailed timesheet to the IS file vault named `time.txt`, which will have separate entries for a) coding, b) implementing tests c) writing docs d) setting up project / build system / style check. 
 
 ## 2: Multi-developer scenario (deadline 30. 4.)
+
+**Note that this assignment used Travis CI, which dropped its support for unlimited public CI. If you do not have or want to use your Travis CI credits
+for this assignment you can change the CI over to GitHub actions or skip actually running Travis (but do the associated tasks). A future version
+of this assignment will move to GitHub actions.**
 
 Prove you can use git to interact with existing reositories, resolve conflicts and adjust git history.
 Create a text file `ossdev-hw-01.txt` and mark mentioned info to the file as noted below in the assignment. 
